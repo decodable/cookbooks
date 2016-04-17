@@ -1,5 +1,6 @@
 # Commands
 ```
+git config --global push.default simple
 git clone https://github.com/trymilix/cookbook.git
 git config --local user.name "Mi Lix"
 git config --local user.email test@milix.com
