@@ -16,9 +16,10 @@ git push
 
 ## 分支
 ```
-git branch  
 git branch -a  
 git branch -r 
+git branch {new branch name}
+git checkout {branch to switch}
 ```
 
 # Reference
