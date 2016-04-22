@@ -1,14 +1,24 @@
 # Commands
+## 本地
 ```
 git config --global push.default simple
-git clone https://github.com/trymilix/cookbook.git
 git config --local user.name "Mi Lix"
 git config --local user.email test@milix.com
 git commit -a -m "new examples"
-git push
-git branch
-git branch -a
-git branch -r
+```
+
+## 远程
+```
+git clone https://github.com/trymilix/cookbook.git
+git pull  
+git push  
+```
+
+## 分支
+```
+git branch  
+git branch -a  
+git branch -r 
 ```
 
 # Reference
