@@ -6,6 +6,7 @@ git config --local user.name "Mi Lix"
 git config --local user.email test@milix.com
 git commit -a -m "new examples"
 git commit --amend
+git checkout <commit> <file>
 ```
 
 ## 远程
