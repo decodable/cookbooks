@@ -3,6 +3,11 @@ Add files or directories into source control
 cvs add {filename}
 ```
 
+Commit changes
+```
+cvs commit {filename}
+```
+
 Dummy update to show status of files
 ```
 cvs -qn update
