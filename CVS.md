@@ -1,3 +1,8 @@
+Add files or directories into source control
+```
+cvs add {filename}
+```
+
 Dummy update to show status of files
 ```
 cvs -qn update
