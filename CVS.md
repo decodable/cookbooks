@@ -21,6 +21,7 @@ cvs -qn update [files]
 Show status in detail
 ```
 cvs status [files]
+```
 
 See the differences between the version I am working on and the version in the repository
 ```
