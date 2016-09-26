@@ -9,3 +9,6 @@ You own module could be Theme, page, block, viewer etc.
 ## DRUPAL TERMINOLOGY
 [DRUPAL TERMINOLOGY – NODES, BLOCKS AND VIEWS OH MY….](http://inspiredm.com/drupal-terminology-nodes-blocks-and-views-oh-my%E2%80%A6/)
 
+
+
+[An Introduction to Entities](https://www.drupal.org/node/1261744)
