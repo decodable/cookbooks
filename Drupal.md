@@ -10,7 +10,6 @@ You own module could be Theme, page, block, viewer etc.
 [DRUPAL TERMINOLOGY – NODES, BLOCKS AND VIEWS OH MY….](http://inspiredm.com/drupal-terminology-nodes-blocks-and-views-oh-my%E2%80%A6/)
 
 
-
-[An Introduction to Entities](https://www.drupal.org/node/1261744)
-
-[Understanding entity terminology](https://www.drupal.org/node/1649688)
+1. [HOW A PAGE REQUEST IS PROCESSED BY DRUPAL 7 ?](http://www.innoraft.com/blog/how-page-request-processed-drupal-7)
+2. [An Introduction to Entities](https://www.drupal.org/node/1261744)
+3. [Understanding entity terminology](https://www.drupal.org/node/1649688)
