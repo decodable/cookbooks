@@ -12,4 +12,7 @@ edit ~/.vimrc
 nmap <F8> :TagbarToggle<CR> 
 ```
 
-[Tags for PHP in Vim](https://robertbasic.com/blog/tags-for-php-in-vim/)
+tags
+```
+ctags-exuberant -f php.tags --languages=PHP -R
+```
