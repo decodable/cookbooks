@@ -12,7 +12,7 @@ edit ~/.vimrc
 nmap <F8> :TagbarToggle<CR> 
 ```
 
-tags
+tags fro Drupal
 ```
-ctags-exuberant -f php.tags --languages=PHP -R
+ctags --langmap=php:.engine.inc.module.theme.install.php --php-kinds=cdfi --languages=php --recurse
 ```
