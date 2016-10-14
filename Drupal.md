@@ -13,3 +13,5 @@ You own module could be Theme, page, block, viewer etc.
 1. [HOW A PAGE REQUEST IS PROCESSED BY DRUPAL 7 ?](http://www.innoraft.com/blog/how-page-request-processed-drupal-7)
 2. [An Introduction to Entities](https://www.drupal.org/node/1261744)
 3. [Understanding entity terminology](https://www.drupal.org/node/1649688)
+4. [Drupal Entities - 第一部分 - Moving beyond nodes](http://drupalchina.cn/node/1827)
+5. [Drupal Entities - 第二部分 - The what, where and when of Entities](http://drupalchina.cn/node/1828)
