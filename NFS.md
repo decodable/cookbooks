@@ -8,3 +8,4 @@ Edit /etc/auto.master
 3. [How to install and configure Autofs on CentOS 7 / Fedora 22 / Ubuntu 14.04](http://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-and-configure-autofs-on-centos-7-fedora-22-ubuntu-14-04.html)
 4. [Autofs @ archlinux](https://wiki.archlinux.org/index.php/Autofs)
 5. [autofs @ Ubuntu](https://help.ubuntu.com/community/Autofs)
+6. [How to use nsswitch.com to find Linux system information](http://searchitchannel.techtarget.com/feature/Using-nsswitchconf-to-find-Linux-system-information)
