@@ -1,5 +1,5 @@
 # Commands
-## 本地
+## Local
 ```
 git config --global push.default simple
 git config --local user.name "Mi Lix"
@@ -9,17 +9,17 @@ git commit --amend
 git checkout <commit> <file>
 ```
 
-## 远程
+## Remote
 ```
 git clone https://github.com/trymilix/cookbook.git
 git pull  
 git push  
 ```
 
-## 分支
+## Branch
 ```
-git branch -a  
-git branch -r 
+git branch -a -v
+git branch -r -v
 git branch {new branch name}
 git checkout {branch to switch}
 ```
