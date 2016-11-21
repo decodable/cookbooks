@@ -1,4 +1,8 @@
 
+## Network
+nslookup
+
+
 ## HW Info
 ```
 lscpu
@@ -17,4 +21,10 @@ modprobe
 ```
 apt-get update
 apt-get upgrade
+```
+
+## CentOS
+
+```
+yum search
 ```
