@@ -1,3 +1,7 @@
+Exuberant ctags
+```
+apt-get install exuberant-ctags
+```
 
 [Tagbar : Display tags of the current file ordered by scope](http://www.vim.org/scripts/script.php?script_id=3465)
 ```
