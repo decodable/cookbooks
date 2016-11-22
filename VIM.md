@@ -20,3 +20,8 @@ tags for Drupal
 ```
 ctags --langmap=php:.engine.inc.module.theme.install.php --php-kinds=cdfi --languages=php --recurse
 ```
+
+[Encryption](http://vim.wikia.com/wiki/Encryption)
+```
+:X
+```
