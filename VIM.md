@@ -26,6 +26,7 @@ ctags --langmap=php:.engine.inc.module.theme.install.php --php-kinds=cdfi --lang
 :X
 ```
 
+turn off autoindent when you paste code
 ```
 :set paste
 :set nopaste
