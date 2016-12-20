@@ -37,3 +37,8 @@ Discard local changes
 ```
 cvs update -C [files]
 ```
+
+CVS checkout specific revision
+```
+cvs checkout -r <revision> -p filename.ext
+```
