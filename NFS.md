@@ -9,3 +9,4 @@ Edit /etc/auto.master
 4. [Autofs @ archlinux](https://wiki.archlinux.org/index.php/Autofs)
 5. [autofs @ Ubuntu](https://help.ubuntu.com/community/Autofs)
 6. [How to use nsswitch.com to find Linux system information](http://searchitchannel.techtarget.com/feature/Using-nsswitchconf-to-find-Linux-system-information)
+7. [How to do Linux NFS Performance Tuning and Optimization](http://www.slashroot.in/how-do-linux-nfs-performance-tuning-and-optimization)
