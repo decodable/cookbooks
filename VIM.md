@@ -15,13 +15,13 @@ edit ~/.vimrc
 ```
 nmap <F8> :TagbarToggle<CR> 
 ```
-
-# tags for Drupal
+# Tips
+tags for Drupal
 ```
 ctags --langmap=php:.engine.inc.module.theme.install.php --php-kinds=cdfi --languages=php --recurse
 ```
 
-# Tips
+
 
 [Encryption](http://vim.wikia.com/wiki/Encryption)
 ```
