@@ -33,3 +33,6 @@ turn off autoindent when you paste code
 :set paste
 :set nopaste
 ```
+
+# References
+1. http://www.vim.org/
