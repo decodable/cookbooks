@@ -26,3 +26,5 @@ git checkout {branch to switch}
 
 # Reference
 [Git in Bash](https://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Bash)
+[Git push requires username and password](http://stackoverflow.com/questions/6565357/git-push-requires-username-and-password)
+
