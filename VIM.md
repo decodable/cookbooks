@@ -2,6 +2,13 @@
 ```
 apt-get install exuberant-ctags
 ```
+| Key| Comments |
+| ------- | ---- |
+| h j k l | move |
+| ^ w e $ | move faster |
+| *       | search word nearest to the cursor |
+| /{pattern} | search forward |
+| /{pattern} | search backword |
 
 [Tagbar : Display tags of the current file ordered by scope](http://www.vim.org/scripts/script.php?script_id=3465)
 ```
