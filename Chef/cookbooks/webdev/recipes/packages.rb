@@ -25,3 +25,7 @@ hidden_files.each do |hidden_file|
   end
 end
 
+link '/usr/bin/node' do
+  to '/usr/bin/nodejs'
+end
+
