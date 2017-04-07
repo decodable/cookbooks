@@ -3,7 +3,7 @@ chef generate cookbook cookbooks/{cookbook}
 chef generate template cookbooks/{cookbook}/ {file}
 ```
 
--W, --why-run                    Enable whyrun mode
+Enable whyrun mode with *-W, --why-run*
 ```
 chef-client --local-mode -Fmin -W --runlist 'recipe[{cookbook}::{recipe}]'
 ```
