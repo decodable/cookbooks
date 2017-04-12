@@ -1,3 +1,4 @@
+" http://vim.wikia.com/wiki/Easy_edit_of_files_in_the_same_directory
 " Edit another file in the same directory as the current file
 " uses expression to extract path from current file's path
 " (thanks Douglas Potts)
@@ -7,8 +8,8 @@ else
   map ,e :e <C-R>=expand("%:p:h") . '\'<CR>
 endif
 
-" expend tab
-set et
+nmap <F8> :TagbarToggle<CR>
+
 " line number
 set nu
 " auto indent
@@ -20,31 +21,20 @@ set cinoptions=g0
 " Highly recommended to set tab keys to 2 spaces
 set tabstop=2
 set shiftwidth=2
-
-" Lines with equal indent form a fold
-" set foldmethod=indent
-
-" set cindent
-" set cinkeys=0{,0},!^F,o,O,e " default is: 0{,0},0),:,0#,!^F,o,O,e
-filetype plugin indent on
-
-filetype plugin on
-
-let g:C_MapLeader = ','
+set et    " expend tab
 
 syntax enable
+filetype on
+filetype plugin on
+filetype plugin indent on
 
 set ignorecase
 set smartcase
 
-source $HOME/.vim/vimrc_encoding      " Encoding
+" Encodeing for Japanese
+source $HOME/.vim/vimrc_encoding
 
-" set enc=utf8 gfn=Courier_New:h12:w7 fencs=ucs-bom,utf8,chinese
-" set gfw=NSimSun-18030,GulimChe,GungsuhChe,FangSong,MS_Mincho,SimHei
-
-" inoremap <tab> <c-p>
-
+" status line
 :set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [ASCII=\%03.3b]\ [HEX=\%02.2B]\ [POS=%04l,%04v][%p%%]\ [LEN=%L]
 :set laststatus=2
 
-nmap <F8> :TagbarToggle<CR>

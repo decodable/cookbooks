@@ -1,4 +1,4 @@
-packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs']
+packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'python-pip']
 
 package packages do
   action :install
@@ -27,5 +27,10 @@ end
 
 link '/usr/bin/node' do
   to '/usr/bin/nodejs'
+end
+
+execute 'install Grip' do
+  command 'pip install grip'
+  not_if 'which grip'
 end
 
