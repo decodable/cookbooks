@@ -1,9 +1,17 @@
 # Preparation
-
 * Charge Camera
 * Charge Battery
+* Charge Power Bank
 * ICE Block in fridge
-* Power Bank
+
+# Hiking
+* Hiking Socks
+* Hiking Poles
+* Camera
+* Compass
+* Binocle
+* Sunglasses
+* Pepper Spray
 
 # Outing
 * Water
@@ -12,21 +20,13 @@
 * Wipes
 * Cooler /W ICE
 * Gloves
-* Toothpick
-* Pepper Spray
 * Flashlight
 * Headlight
-* Hiking Socks
-* Hiking Poles
 * Battery
-* Camera
-* Compass
-* Binocle
-* Tooth brush & Charger
-* Sunglasses
-* Sunglasses Clip X 2
 * USB Charger
 * Medicine
+* Tooth brush & Charger
+* Toothpick
 
 # Camping
 * Tent
