@@ -5,7 +5,8 @@ apt-get install exuberant-ctags
 ```
 
 # Basic
-| File | Comments |
+## File
+| Command | Comments |
 | ------- | ---- |
 | :e {file} | open a file |
 | :e | reopen |
@@ -18,7 +19,8 @@ apt-get install exuberant-ctags
 | :b[N] | go to buffer N |
 | :bn | go to next buffer N |
 
-| Move | Comments |
+## Move
+| Command | Comments |
 | ------- | ---- |
 | h j k l | move |
 | ^ b w $ | move faster |
@@ -33,7 +35,8 @@ apt-get install exuberant-ctags
 | f{char} | find next char in the line |
 | F{char} | find previous char in the line |
 
-| Edit | Comments |
+## Edit
+| Command | Comments |
 | ------- | ---- |
 | i | insert |
 | a | append |
@@ -55,26 +58,29 @@ apt-get install exuberant-ctags
 | > | indent |
 | < | unindent |
 
-| Undo / Redo | Comments |
+### Undo / Redo
+| Command | Comments |
 | ------- | ---- |
 | u | undo |
 | ^r | redo |
 
-| Copy / Paste | Comments |
+### Copy / Paste 
+| Command | Comments |
 | ------- | ---- |
 | yy | copy (yank) one line |
 | yw | copy (yank) one word |
 | p | insert after |
 | P | insert before |
 
-
-| Select | Comments |
+### Select
+| Command | Comments |
 | ------- | ---- |
 | v | select character |
 | V | select line |
 | ^v | select block |
 
-| Window | Comments |
+## Window
+| Command | Comments |
 | ------- | ---- |
 | :sp | split |
 | :vs | split vertically |
