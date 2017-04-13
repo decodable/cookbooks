@@ -6,7 +6,7 @@ apt-get install exuberant-ctags
 
 # Basic
 ## File
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | :e {file} | open a file |
 | :e | reopen |
@@ -20,7 +20,7 @@ apt-get install exuberant-ctags
 | :bn | go to next buffer N |
 
 ## Move
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | h j k l | move |
 | ^ b w $ | move faster |
@@ -30,7 +30,7 @@ apt-get install exuberant-ctags
 | :{lineno} | goto line |
 
 ## Search
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | f{char} | find next char in the line |
 | F{char} | find previous char in the line |
@@ -40,7 +40,7 @@ apt-get install exuberant-ctags
 | % | jump to the match like {} |
 
 ## Edit
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | i | insert |
 | a | append |
@@ -63,13 +63,13 @@ apt-get install exuberant-ctags
 | < | unindent |
 
 ### Undo / Redo
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | u | undo |
 | ^r | redo |
 
 ### Copy / Paste 
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | yy | copy (yank) one line |
 | yw | copy (yank) one word |
@@ -77,19 +77,19 @@ apt-get install exuberant-ctags
 | P | insert before |
 
 ### Select
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | v | select character |
 | V | select line |
 | ^v | select block |
 
 ## Window
-| Command | Comments |
+| Commands | Comments |
 | ------- | ---- |
 | :sp | split |
 | :vs | split vertically |
 
-# Plugin
+# Plugins
 
 1. [minibufexpl](http://www.vim.org/scripts/script.php?script_id=159) Elegant buffer explorer - takes very little screen space 
 2. [Tagbar](http://www.vim.org/scripts/script.php?script_id=3465) Display tags of the current file ordered by scope
@@ -104,7 +104,7 @@ apt-get install exuberant-ctags
 6. [Using marks](http://vim.wikia.com/wiki/Using_marks)
 7. [Using Exuberant Ctags for Drupal](https://www.koumbit.org/en/content/using-exuberant-ctags-drupal)
 
-# Reference
+# References
 1. [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 2. [Vim as an IDE](https://github.com/jez/vim-as-an-ide)
 
