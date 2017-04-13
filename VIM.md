@@ -24,16 +24,20 @@ apt-get install exuberant-ctags
 | ------- | ---- |
 | h j k l | move |
 | ^ b w $ | move faster |
+| ^u | scroll up |
+| ^d | scroll down |
+| G | goto end of file |
+| :{lineno} | goto line |
+
+## Search
+| Command | Comments |
+| ------- | ---- |
+| f{char} | find next char in the line |
+| F{char} | find previous char in the line |
 | *       | search word |
 | /{pattern} | search forward |
 | ?{pattern} | search backword |
-| ^u | scroll up |
-| ^d | scroll down |
 | % | jump to the match like {} |
-| G | goto end of file |
-| :{lineno} | goto line |
-| f{char} | find next char in the line |
-| F{char} | find previous char in the line |
 
 ## Edit
 | Command | Comments |
