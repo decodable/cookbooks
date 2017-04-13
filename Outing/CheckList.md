@@ -5,6 +5,7 @@
 * ICE Block in fridge
 
 # Hiking
+* Water
 * Hiking Socks
 * Hiking Poles
 * Camera
@@ -12,16 +13,13 @@
 * Binocle
 * Sunglasses
 * Pepper Spray
+* Band-Aid
 
 # Outing
-* Water
-* Emergency Pack
-* Band-Aid
-* Wipes
 * Cooler /W ICE
+* Emergency Pack
+* Wipes
 * Gloves
-* Flashlight
-* Headlight
 * Battery
 * USB Charger
 * Medicine
@@ -36,8 +34,13 @@
 * Air Mattress
 * Air Pump
 * Camping Lantern
+* Flashlight
+* Headlight
 * Tent Mallet
+
+# By the Sea
 * Flotation Device
+* Sand Playing
 
 # BBQ
 * Wood / Charcoal
