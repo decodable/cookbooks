@@ -1,4 +1,4 @@
-packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'python-pip']
+packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'npm', 'python-pip']
 
 package packages do
   action :install
