@@ -39,6 +39,7 @@
 * Tent Mallet
 * Blanket
 
+
 # By the Sea
 * Flotation Device
 * Sand Playing
@@ -50,6 +51,8 @@
 * Salt
 * Butter
 * Table Cloth
+* Bakeware brush
+* Tuner
 
 # Snow
 * Snow chain
