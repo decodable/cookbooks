@@ -37,7 +37,6 @@
 * Flashlight
 * Headlight
 * Tent Mallet
-* Charcoal lighter
 
 # By the Sea
 * Flotation Device
@@ -46,9 +45,10 @@
 # BBQ
 * Wood / Charcoal
 * Lighter
-* Table Cloth
+* Charcoal lighter Fuel
 * Salt
 * Butter
+* Table Cloth
 
 # Snow
 * Snow chain
