@@ -37,6 +37,7 @@
 * Flashlight
 * Headlight
 * Tent Mallet
+* Charcoal lighter
 
 # By the Sea
 * Flotation Device
