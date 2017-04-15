@@ -25,6 +25,7 @@
 * Medicine
 * Tooth brush & Charger
 * Toothpick
+* Gabage Bag
 
 # Camping
 * Tent
