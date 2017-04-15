@@ -30,13 +30,13 @@
 * Tent
 * Tarp
 * Sleeping Bag
-* Blanket
 * Air Mattress
 * Air Pump
 * Camping Lantern
 * Flashlight
 * Headlight
 * Tent Mallet
+* Blanket
 
 # By the Sea
 * Flotation Device
