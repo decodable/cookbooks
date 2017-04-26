@@ -13,3 +13,4 @@ Edit /etc/auto.master
 8. [Optimizing NFS Performance](http://nfs.sourceforge.net/nfs-howto/ar01s05.html)
 9. [NFS Server Performance and Tuning Guide for Sun Hardware](http://docs.oracle.com/cd/E19620-01/805-4448/6j47cnj0i/index.html)
 10. [Using rpcdebug to debug Linux NFS client and server issues](http://prefetch.net/blog/index.php/2011/11/02/using-rpcdebug-to-debug-linux-nfs-client-and-server-issues/)
+11. [NFS: Setting up a basic NFS file system share](http://bencane.com/2012/11/23/nfs-setting-up-a-basic-nfs-file-system-share/)
