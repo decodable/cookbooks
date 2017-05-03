@@ -25,6 +25,3 @@ Patterns I often used are
 
 # FAQ
 1. [“Closures are poor man's objects and vice versa” - What does this mean?](http://stackoverflow.com/questions/2497801/closures-are-poor-mans-objects-and-vice-versa-what-does-this-mean)
-
-# Reference
-1. [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
