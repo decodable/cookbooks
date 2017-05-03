@@ -1,5 +1,5 @@
 
-In object oriented programming, what we really care about is objects.
+In [object oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming), what we really care about is objects.
 
 Three important concepts
 1. Encapsulation: create objects.
