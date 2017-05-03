@@ -1,8 +1,8 @@
 
 1. [Procedural Programming](ProceduralProgramming.md)
 2. [Object Oriented Programming](OOP.md)
-2.1 [Class-based programming](https://en.wikipedia.org/wiki/Class-based_programming)
-2.2 [Prototype-based programming](https://en.wikipedia.org/wiki/Prototype-based_programming)
+..1. [Class-based programming](https://en.wikipedia.org/wiki/Class-based_programming)
+..2. [Prototype-based programming](https://en.wikipedia.org/wiki/Prototype-based_programming)
 3. [Modular Programming](ModularProgramming.md)
 
 # FAQ
