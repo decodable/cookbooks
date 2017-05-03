@@ -2,9 +2,9 @@
 In object oriented programming, what we really care about is objects.
 
 Three important concepts
-1. Encapsulation
-2. Inheritance
-3. Polymorphism
+1. Encapsulation: create objects.
+2. Inheritance: reuse code.
+3. Polymorphism: reuse behaviour.
 
 Regarding inheritence, there are two kinds of style.
 1. [Class-based programming](https://en.wikipedia.org/wiki/Class-based_programming)
