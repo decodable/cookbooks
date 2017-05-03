@@ -14,12 +14,12 @@ Regarding inheritence, there are two kinds of style. The big difference of OOP b
 1. [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 2. [Design Pattern](https://en.wikipedia.org/wiki/Design_pattern)
 
-Patterns I often used are
-1. Creational
-2. Structural
+Design pattern is still all about object. Patterns I often used are:
+1. Creational: How we create objects.
+2. Structural: How we orgnized objects.
    1. [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern)
    2. [Composite](https://en.wikipedia.org/wiki/Composite_pattern)
-3. Behavioral
+3. Behavioral: However objects interact with each other.
    1. [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern)
    2. [Template Method](https://en.wikipedia.org/wiki/Template_method_pattern)
 
