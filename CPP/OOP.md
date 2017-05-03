@@ -14,7 +14,7 @@ Regarding inheritence, there are two kinds of style. The big difference of OOP b
 1. [SOLID (object-oriented design)](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 2. [Design Pattern](https://en.wikipedia.org/wiki/Design_pattern)
 
-Design pattern is still all about object. Patterns I often used are:
+Design pattern is still all about objects. Patterns I often used are:
 1. Creational: How we create objects.
 2. Structural: How we orgnized objects.
    1. [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern)
