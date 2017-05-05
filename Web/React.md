@@ -1,11 +1,15 @@
 
 # How React Works
-1. state: render only when state change
-2. property: update DOM only when property change
-3. property change according to state, thus update DOM
+1. property: Parent component build properties of child components. Update child components only when properties change. Properties are immuatable, one component cannot change it's own propterty.
+2. state: State is internal and changable. State change will also trigger render of component.
+3. Model change trigger the change of properties of root component, which will further change properties of child components.
+4. State is intialized when properties change when component was is created.
+5. State update interactively on events.
+6. Model also update on events.
 
 ## References
 1. [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
+2. [props vs state](https://github.com/uberVU/react-guide/blob/master/props-vs-state.md)
 
 # Immutability
 1. [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
