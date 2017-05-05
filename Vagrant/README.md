@@ -1,17 +1,17 @@
-# Create
+# [Init](https://www.vagrantup.com/docs/cli/init.html)
 ```
 # vagrant init bento/ubuntu-16.04
 vagrant init xenji/ubuntu-17.04-server
 vagrant up
 ```
 
-# suspend & resume
+# [suspend](https://www.vagrantup.com/docs/cli/suspend.html) & [resume](https://www.vagrantup.com/docs/cli/resume.html)
 ```
 vagrant suspend
 vagrant resume
 ```
 
-# halt & up
+# [halt](https://www.vagrantup.com/docs/cli/halt.html) & [up](https://www.vagrantup.com/docs/cli/up.html)
 ```
 vagrant halt
 vagrant up
@@ -19,7 +19,7 @@ vagrant reload
 vagrant provision
 ```
 
-# destory
+# [destory](https://www.vagrantup.com/docs/cli/destroy.html)
 ```
 vagrant destroy
 ```
