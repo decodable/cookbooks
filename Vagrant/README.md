@@ -1,6 +1,7 @@
 # Create
 ```
-vagrant init bento/ubuntu-16.04
+# vagrant init bento/ubuntu-16.04
+vagrant init xenji/ubuntu-17.04-server
 vagrant up
 ```
 
