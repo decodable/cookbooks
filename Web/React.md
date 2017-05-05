@@ -13,6 +13,16 @@
 # Routing
 1. [Authentication routing in a React-Flux application](http://wmyers.github.io/technical/react-flux/Authentication-routing-in-a-React-Flux-application/)
 
+# Redux
+1. [Getting Started With React Redux: An Intro](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
+2. [React, Redux and Immutable.js: Ingredients for Efficient Web Applications](https://www.toptal.com/react/react-redux-and-immutablejs)
+3. [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+4. [Managing your React state with Redux](https://onsen.io/blog/react-state-management-redux-store/)
+5. [A guide to React Native with Redux and Immutable.js](https://medium.com/the-react-native-log/a-guide-to-react-native-with-redux-and-immutable-js-65a2b795cb6f#.kic1k4ysi)
+6. [A Guide For Building A React Redux CRUD App](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f#.6ohb8af7b)
+7. [Idiomatic Redux: Why use action creators?](https://github.com/acdlite/redux-actions)
+8. [redux-saga](https://survivejs.com/blog/redux-saga-interview/)
+
 # References
 1. [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 2. [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
