@@ -1,11 +1,11 @@
 
 # How React Works
-1. property: Parent component build properties of child components. Update child components only when properties change. Properties are immuatable, one component cannot change it's own propterty.
-2. state: State is internal and changable. State change will also trigger render of component.
-3. Model change trigger the change of properties of root component, which will further change properties of child components.
-4. State is intialized when properties change when component was is created.
-5. State update interactively on events.
-6. Model also update on events.
+* property: Parent component build properties of child components. Update child components only when properties change. Properties are immuatable, one component cannot change it's own propterty.
+* state: State is internal and changable. State change will also trigger render of component.
+1. Model change trigger the change of properties of root component, which will further change properties of child components.
+2. State is intialized when properties change when component was is created.
+3. State update interactively on events.
+4. Model also update on events.
 
 ## References
 1. [React Demystified](http://blog.reverberate.org/2014/02/react-demystified.html)
