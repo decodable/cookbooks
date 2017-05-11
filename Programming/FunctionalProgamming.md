@@ -7,3 +7,4 @@ References:
 4. [Functional programming in C++](http://blog.madhukaraphatak.com/functional-programming-in-c++/)
 5. [In-depth: Functional programming in C++](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php)
 6. [Functional C++](https://functionalcpp.wordpress.com/)
+7. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
