@@ -1,4 +1,5 @@
 Functional Programming is not very much about language features, as it is a way of thinking about programming.
+1. PF is to composite functions, while OOP is to composite objects. We have quite some design patterns focusing on how to composite objects. Function compistion seems much easy. It is just like when we use pipe in shell scripts. In OOP we spend a lot time on designing how to composite objects. In FP, we think about how to simply a problem into chains of functions, each function solve one simple problem.
 
 References:
 1. [The Functional Revolution in C++](https://bartoszmilewski.com/2014/06/09/the-functional-revolution-in-c/)
