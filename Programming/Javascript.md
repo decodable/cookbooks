@@ -1,4 +1,5 @@
 
+1. [Futures and promises](https://en.wikipedia.org/wiki/Futures_and_promises)
 1. [Writing Your Own Javascript Promises](https://scotch.io/@wesleylhandy/writing-your-own-javascript-promises)
 2. [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
 3. [Promises in Node.js – An Alternative to Callbacks](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
