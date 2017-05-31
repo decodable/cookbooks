@@ -1,0 +1,6 @@
+
+1. [Writing Your Own Javascript Promises](https://scotch.io/@wesleylhandy/writing-your-own-javascript-promises)
+2. [Callbacks are imperative, promises are functional: Node’s biggest missed opportunity](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/)
+3. [Promises in Node.js – An Alternative to Callbacks](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
+4. [JavaScript Promises – How They Work](https://spin.atomicobject.com/2016/02/16/how-javascript-promises-work/)
+5. [Scraping web pages using Node.js using request+promise](https://coderwall.com/p/9cifuw/scraping-web-pages-using-node-js-using-request-promise)
