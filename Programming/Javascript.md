@@ -1,3 +1,13 @@
+function step1(step2) {
+}
+
+function step2(step3) {
+}
+
+function step3() {
+}
+
+Promise step1 then step2 then step 3
 
 1. [Futures and promises](https://en.wikipedia.org/wiki/Futures_and_promises)
 1. [Implementing - Promises](https://www.promisejs.org/implementing/)
