@@ -1,5 +1,5 @@
 # Tools
-1. [DEWALT 15 Amp 10 in. Compact Job Site Table Saw](http://www.homedepot.com/p/DEWALT-15-Amp-10-in-Compact-Job-Site-Table-Saw-DW745/100497987)
+  1. [DEWALT 15 Amp 10 in. Compact Job Site Table Saw [DW745]](http://www.homedepot.com/p/DEWALT-15-Amp-10-in-Compact-Job-Site-Table-Saw-DW745/100497987)
 2. [DEWALT Heavy Duty Rolling Table Saw Stand](http://www.homedepot.com/p/DEWALT-Heavy-Duty-Rolling-Table-Saw-Stand-DW7440RS/203054768?keyword=DW7440rs)
 
 
