@@ -15,7 +15,7 @@
 [Doxygen](http://www.stack.nl/~dimitri/doxygen/)
 
 # Make
-cmake
+[cmake](cmake.md)
 
 # Test
 [Google Test](https://github.com/google/googletest)
