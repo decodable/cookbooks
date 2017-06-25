@@ -14,6 +14,9 @@
 # Document
 [Doxygen](http://www.stack.nl/~dimitri/doxygen/)
 
+# Make
+cmake
+
 # Test
 [Google Test](https://github.com/google/googletest)
 
