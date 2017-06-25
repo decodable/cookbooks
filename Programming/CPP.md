@@ -4,7 +4,8 @@
 2. ctags
 3. cscope
 
-# Guideline
+# Style Guide
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 # Analysis Code Statically
 1. cppcheck
