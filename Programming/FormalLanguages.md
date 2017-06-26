@@ -7,6 +7,8 @@
 
 
 ## Regular
+
+Example to count word: [wc.l](Examples/CPP/wc-flex/wc.l)
 ```cpp
 %{
   int num_lines, num_words, num_bytes;
