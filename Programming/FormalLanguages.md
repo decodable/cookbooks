@@ -18,9 +18,9 @@ WORD [^ \t\n]+
 %{
   num_lines = 0, num_words = 0, num_bytes = 0;
 %}
-\n { num_lines++; num_bytes++; }
+\n     { num_lines++; num_bytes++; }
 {WORD} { num_words++; num_bytes += yyleng; }
-. { num_bytes++; }
+.      { num_bytes++; }
 
 %%
 int main(int argc, char* argv[]) {
