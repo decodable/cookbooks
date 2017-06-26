@@ -7,7 +7,7 @@
 
 
 ## Regular
-```
+```cpp
 %{
   int num_lines, num_words, num_bytes;
 %}
