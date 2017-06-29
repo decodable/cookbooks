@@ -23,3 +23,6 @@ vagrant provision
 ```
 vagrant destroy
 ```
+
+# References
+1. [Remote Desktop and VNC on Ubuntu Server](https://peteris.rocks/blog/remote-desktop-and-vnc-on-ubuntu-server/)
