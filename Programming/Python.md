@@ -1,3 +1,6 @@
+When you assign a variable with another variable, they point to the same object.
+When you assign a variable with an object, it points to the new object.
+
 
 VIM
 ```
