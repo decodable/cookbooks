@@ -6,7 +6,8 @@ When you assign a variable with an object, it points to the new object.
 
 We can always use id() function to see whether they are same object.
 
-### Tip - Immultable
+### Tip - Multable
+list, bytearray are multable
 str, tuple are immultable
 
 VIM
