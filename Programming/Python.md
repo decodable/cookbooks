@@ -1,5 +1,8 @@
 When you assign a variable with another variable, they point to the same object.
+
 When you assign a variable with an object, it points to the new object.
+
+We can always use id() function to see whether they are same object.
 
 
 VIM
