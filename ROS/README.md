@@ -1,5 +1,5 @@
 
 
 
-1. [ROS Tutorial @ USC Aerial Robotics](https://github.com/uscrs-art/uscrs-art/wiki)
-2. [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+1. [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+2. [ROS Technical Overview](http://wiki.ros.org/ROS/Technical%20Overview)
