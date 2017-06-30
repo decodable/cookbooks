@@ -9,7 +9,7 @@ We can always use id() function to see whether they are same object.
 ### Tip - Multable
 list, bytearray are multable
 
-str, tuple are immultable
+str, tuple, dict are immultable
 
 VIM
 ```
