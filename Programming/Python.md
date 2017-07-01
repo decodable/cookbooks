@@ -15,7 +15,11 @@ str, tuple, dict are immultable
 Thanks Python, comprehension is really easy to understand as it is english.
 ```
 [n ** 2 for n in range(10) if not n % 2]
+{c: k for k, c in enumerate(ascii_lowercase, 1)}
 ```
+
+### Tip - Generator Object
+[Generator functions in C++](https://paoloseverini.wordpress.com/2014/06/09/generator-functions-in-c/) is not easy.
 
 VIM
 ```
