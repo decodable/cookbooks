@@ -11,6 +11,12 @@ list, bytearray are multable
 
 str, tuple, dict are immultable
 
+### Tip - Comprehensions
+Thanks Python, comprehensions are really easy to read.
+```
+[n ** 2 for n in range(10) if not n % 2]
+```
+
 VIM
 ```
 ctags -R --fields=+l --languages=python --python-kinds=-iv ./
