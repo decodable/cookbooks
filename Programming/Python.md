@@ -30,3 +30,4 @@ ctags -R --fields=+l --languages=python --python-kinds=-iv ./
 1. [Navigating your Django project with Vim and ctags](https://www.fusionbox.com/blog/detail/navigating-your-django-project-with-vim-and-ctags/590/)
 2. [C++ Has Become More Pythonic](http://preshing.com/20141202/cpp-has-become-more-pythonic/)
 3. [Mixins and Python](https://www.ianlewis.org/en/mixins-and-python)
+4. [Understanding Python's "with" statement](http://effbot.org/zone/python-with-statement.htm)
