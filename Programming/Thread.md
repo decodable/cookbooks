@@ -4,3 +4,4 @@
 3. [C Programming: Creating a child process using “clone”](http://codesteps.com/2014/05/19/c-programming-creating-a-child-process-using-clone/)
 4. [C++11 multithreading tutorial](https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/)
 5. [Threads and Boost.Asio](http://www.boost.org/doc/libs/1_54_0/doc/html/boost_asio/overview/core/threads.html)
+6. [Thread Management](http://www.boost.org/doc/libs/1_35_0/doc/html/thread/thread_management.html#thread.thread_management.threadgroup)
