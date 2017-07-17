@@ -8,3 +8,4 @@
 7. [Confused when boost::asio::io_service run method blocks/unblocks](https://stackoverflow.com/questions/15568100/confused-when-boostasioio-service-run-method-blocks-unblocks)   
 8. [Linux下Boost.Asio Proactor模式实现分析](http://brionas.github.io/2014/07/14/the-implementation-of-Boost.Asio-Proactor-in-Linux/)
 9. [Comparing Two High-Performance I/O Design Patterns](http://www.artima.com/articles/io_design_patterns.html)
+10. [LIBGWRL](http://gngrwzrd.com/libgwrl/)
