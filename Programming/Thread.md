@@ -5,4 +5,5 @@
 4. [C++11 multithreading tutorial](https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/)
 5. [Threads and Boost.Asio](http://www.boost.org/doc/libs/1_54_0/doc/html/boost_asio/overview/core/threads.html)
 6. [Thread Management](http://www.boost.org/doc/libs/1_35_0/doc/html/thread/thread_management.html#thread.thread_management.threadgroup)
-7. [Confused when boost::asio::io_service run method blocks/unblocks](https://stackoverflow.com/questions/15568100/confused-when-boostasioio-service-run-method-blocks-unblocks)               
+7. [Confused when boost::asio::io_service run method blocks/unblocks](https://stackoverflow.com/questions/15568100/confused-when-boostasioio-service-run-method-blocks-unblocks)   
+8. [Linux下Boost.Asio Proactor模式实现分析](http://brionas.github.io/2014/07/14/the-implementation-of-Boost.Asio-Proactor-in-Linux/)
