@@ -9,3 +9,4 @@
 8. [Linux下Boost.Asio Proactor模式实现分析](http://brionas.github.io/2014/07/14/the-implementation-of-Boost.Asio-Proactor-in-Linux/)
 9. [Comparing Two High-Performance I/O Design Patterns](http://www.artima.com/articles/io_design_patterns.html)
 10. [LIBGWRL](http://gngrwzrd.com/libgwrl/)
+11. [What does epoll do with a file descriptor that refers to a directory?](https://stackoverflow.com/questions/11833147/what-does-epoll-do-with-a-file-descriptor-that-refers-to-a-directory)
