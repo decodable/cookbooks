@@ -11,3 +11,4 @@
 10. [LIBGWRL](http://gngrwzrd.com/libgwrl/)
 11. [What does epoll do with a file descriptor that refers to a directory?](https://stackoverflow.com/questions/11833147/what-does-epoll-do-with-a-file-descriptor-that-refers-to-a-directory)
 12. [Why is my timer not periodic but expired only one time?](https://stackoverflow.com/questions/25804171/why-is-my-timer-not-periodic-but-expired-only-one-time)
+13. [timerfd and read](https://stackoverflow.com/questions/12491629/timerfd-and-read)
