@@ -2,7 +2,6 @@
 # Cooking
 ## Refrigerator
 * Counter-Depth Refrigerator
-* Integrated Refrigerator
 
 1. http://www.monogram.com
 
