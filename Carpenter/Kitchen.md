@@ -15,6 +15,7 @@
 # Washing
 ## Sink
 * Single Bowl
+* Undermount
 
 ## Dishwasher
 ## Disposer
