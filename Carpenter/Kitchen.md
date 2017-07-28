@@ -22,3 +22,7 @@
 ## Disposer
 ## Water Filtration
 
+# Wall
+* backsplash
+
+# Light
