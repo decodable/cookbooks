@@ -1,3 +1,5 @@
+# Cabinet
+1. [Buying Cabinet-Quality Lumber](http://www.woodmagazine.com/materials-guide/lumber/buying-cabinet-quality-lumber)
 
 # Cooking
 ## Refrigerator
