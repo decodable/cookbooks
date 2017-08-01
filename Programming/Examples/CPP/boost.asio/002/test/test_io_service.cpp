@@ -1,9 +1,6 @@
 #include "io_service.h"
 #include "timer.h"
 
-#include <sys/timerfd.h>
-#include <sys/epoll.h>
-#include <functional>
 #include <iostream>
 #include <ctime>
 
@@ -16,7 +13,8 @@ void test() {
   io_service io_service;
 
   timer t(io_service);
-  t.async_wait(1, 1, on_timeout);
+  t.expires_from_now(1);
+  t.async_wait(&on_timeout);
 
   io_service.run();
 }

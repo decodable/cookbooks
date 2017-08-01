@@ -9,12 +9,14 @@ public:
   typedef io_service::HANDLER HANDLER;
 
   timer(io_service &io_service);
-  void async_wait(int timeout, int interval, const HANDLER &callback);
+  void expires_from_now(int timeout);
+  void async_wait(const HANDLER &callback);
   void on_timeout(const HANDLER &callback);
 
 private:
   int tfd;
 
+  int timeout_;
   HANDLER handler_;
   io_service &io_service_;
 };

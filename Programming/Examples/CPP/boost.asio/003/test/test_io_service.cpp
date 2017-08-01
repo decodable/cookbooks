@@ -3,17 +3,22 @@
 
 #include <iostream>
 #include <ctime>
+#include <functional>
 
-void on_timeout() {
+void on_timeout(timer &t) {
   const time_t ctt = time(0);
   std::cout << asctime(localtime(&ctt)) << std::endl;
+
+  t.expires_from_now(1);
+  t.async_wait(std::bind(on_timeout, std::ref(t)));
 }
 
 void test() {
   io_service io_service;
 
   timer t(io_service);
-  t.async_wait(1, 1, on_timeout);
+  t.expires_from_now(1);
+  t.async_wait(std::bind(on_timeout, std::ref(t)));
 
   io_service.run();
 }

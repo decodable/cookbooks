@@ -7,15 +7,20 @@
 timer::timer(io_service &io_service) : io_service_(io_service) {
   tfd = timerfd_create(CLOCK_MONOTONIC, TFD_NONBLOCK);
   io_service_.register_event(tfd, EPOLLIN | EPOLLERR, &handler_);
+  timeout_ = 0;
 }
 
-void timer::async_wait(int timeout, int interval, const HANDLER &callback) {
+void timer::expires_from_now(int timeout) {
+  timeout_ = timeout;
+}
+
+void timer::async_wait(const HANDLER &callback) {
   handler_ = std::bind(&timer::on_timeout, this, callback);
 
   struct itimerspec tspec;
-	tspec.it_value.tv_sec = timeout;
+	tspec.it_value.tv_sec = timeout_;
 	tspec.it_value.tv_nsec = 0;
-	tspec.it_interval.tv_sec = interval;
+	tspec.it_interval.tv_sec = 0;
 	tspec.it_interval.tv_nsec = 0;
 
   int flags = 0;
