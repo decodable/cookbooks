@@ -12,3 +12,13 @@ screen -t dev
 screen -t remote
 screen -t tmp
 ```
+
+# Command mode
+```
+CTRL+a :
+```
+
+save screen buffer
+```
+hardcopy -h <filename>
+```
