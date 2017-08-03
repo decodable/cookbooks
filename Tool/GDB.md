@@ -1,9 +1,12 @@
-run / start
+# run / start
 
-continue / step
+# continue / step
 
-break breakpoint
-watchpoint
-catchpoint  
+# break breakpoint
+## command
 
-checkpoint
+# watchpoint
+
+# catchpoint  
+
+# checkpoint
