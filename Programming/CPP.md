@@ -4,6 +4,14 @@
 2. ctags
 3. cscope
 
+```
+touch tags.lst
+find | grep "\.c$" >> tags.lst
+find | grep "\.cpp$" >> tags.lst
+find | grep "\.h$" >> tags.lst
+cscope -i tags.lst
+```
+
 # Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
