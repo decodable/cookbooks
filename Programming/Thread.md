@@ -13,3 +13,5 @@
 12. [Why is my timer not periodic but expired only one time?](https://stackoverflow.com/questions/25804171/why-is-my-timer-not-periodic-but-expired-only-one-time)
 13. [timerfd and read](https://stackoverflow.com/questions/12491629/timerfd-and-read)
 14. [How to use epoll? A complete example in C](https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/)
+15. [The promises and challenges of std::async task-based parallelism in C++11](http://eli.thegreenplace.net/2016/the-promises-and-challenges-of-stdasync-task-based-parallelism-in-c11/)
+16. [Futures with std::async](http://jakascorner.com/blog/2016/02/futures.html)
