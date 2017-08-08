@@ -16,3 +16,4 @@
 15. [The promises and challenges of std::async task-based parallelism in C++11](http://eli.thegreenplace.net/2016/the-promises-and-challenges-of-stdasync-task-based-parallelism-in-c11/)
 16. [Futures with std::async](http://jakascorner.com/blog/2016/02/futures.html)
 17. [How strands work and why you should use them](http://www.crazygaze.com/blog/2016/03/17/how-strands-work-and-why-you-should-use-them/)
+18. [Asio Implementation](http://spiritsaway.info/asio-implementation.html)
