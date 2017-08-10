@@ -1,3 +1,5 @@
+# Source code
+
 ```CPP
 #include "test.h"
 /***
@@ -15,6 +17,7 @@ int main(int argc, char *argv[]) {
 
 ```
 
+# Generated document with code embedded
 ```CPP
 #include "test.h"
 ```
