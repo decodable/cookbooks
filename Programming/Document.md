@@ -1,14 +1,38 @@
-
-```C
-// if the include file is in local path
-// it will generated as link
+```
 #include "test.h"
 /***
- * such comment will be extracted
+ * Here is the main function.
+ * # 0: success
+ * # 1: fail
  ***/
-// This will be enclosed in code block
+/**
+ * Main Function
+ */
 int main(int argc, char *argv[]) {
-/// This comment will be extracted and devide the code block
+/// do nothing but return
   return 0;
 }
+
 ```
+
+Here is the main function.
+* 0: success
+* 1: fail
+```
+/**
+
+ * Main Function
+
+ */
+
+int main(int argc, char *argv[]) {
+
+```
+do nothing but return
+```
+  return 0;
+
+}
+
+```
+
