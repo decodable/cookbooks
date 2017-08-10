@@ -1,7 +1,7 @@
-packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'npm', 'python-pip']
+packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'npm', 'python-pip', 'ruby', 'ruby-dev']
 
 package packages do
-  action :install
+  action :upgrade
 end
 
 user_name = 'vagrant'
@@ -14,7 +14,7 @@ remote_directory "/home/vagrant/.vim/" do
   action :create
 end
 
-hidden_files = ['gitconfig', 'git-completion.bash', 'git-prompt.sh', 'vimrc', 'vimrc', 'screenrc', 'bashrc']
+hidden_files = ['gitconfig', 'git-completion.bash', 'git-prompt.sh', 'vimrc', 'screenrc', 'bashrc']
 hidden_files.each do |hidden_file|
   cookbook_file "/home/vagrant/.#{hidden_file}" do
     source hidden_file
@@ -33,4 +33,7 @@ execute 'install Grip' do
   command 'pip install grip'
   not_if 'which grip'
 end
+
+gem_package 'bundler'
+gem_package 'jekyll'
 
