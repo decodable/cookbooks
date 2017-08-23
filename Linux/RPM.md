@@ -13,3 +13,8 @@ extract rpm without install
 ```
 rpm2cpio foo.rpm | cpio -idmv
 ```
+
+verify package installed
+```
+rpm -q --verify {package}
+```
