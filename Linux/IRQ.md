@@ -1,5 +1,4 @@
 
-[Interrupt request (PC architecture)](https://en.wikipedia.org/wiki/Interrupt_request_(PC_architecture))
 
 ```
 $ cat /proc/interrupts
@@ -16,3 +15,4 @@ $ cat /proc/interrupts
  43:    4245932          0   PCI-MSI-edge      eth0
  ...
 ```
+We know from [Interrupt request (PC architecture)](https://en.wikipedia.org/wiki/Interrupt_request_(PC_architecture)) that IRQ 16-23 are used to route PCI interrupts, avoiding conflict between dynamically configured PCI interrupts and statically configured ISA interrupts.
