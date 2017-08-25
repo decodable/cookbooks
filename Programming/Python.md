@@ -21,6 +21,14 @@ Thanks Python, comprehension is really easy to understand as it is english.
 ### Tip - Generator Object
 [Generator functions in C++](https://paoloseverini.wordpress.com/2014/06/09/generator-functions-in-c/) is not easy.
 
+### Tip - Instance / Class / Static method
+if need to acess instance attribute or method:
+  use instance method
+elif need to access class attribute or method:
+  use class method
+else:
+  use static method
+
 VIM
 ```
 ctags -R --fields=+l --languages=python --python-kinds=-iv ./
