@@ -13,6 +13,11 @@ python manage.py --version
 python manage.py startapp myapp
 
 python manage.py migrate
+
+# asynchronous tasks
+pip install -U "celery[redis]"
 ```
 
-1. [Asynchronous Tasks using Celery with Django](https://www.codementor.io/uditagarwal/asynchronous-tasks-using-celery-with-django-du1087f5k)
+
+1. [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
+2. [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
