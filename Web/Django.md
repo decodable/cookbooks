@@ -14,3 +14,5 @@ python manage.py startapp myapp
 
 python manage.py migrate
 ```
+
+1. [Asynchronous Tasks using Celery with Django](https://www.codementor.io/uditagarwal/asynchronous-tasks-using-celery-with-django-du1087f5k)
