@@ -21,3 +21,4 @@ pip install -U "celery[redis]"
 
 1. [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
 2. [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
+3. [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
