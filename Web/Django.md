@@ -27,3 +27,4 @@ coverage html
 1. [First Steps with Celery](http://docs.celeryproject.org/en/latest/getting-started/first-steps-with-celery.html)
 2. [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
 3. [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
+4. [How to debug in Django, the good way?](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
