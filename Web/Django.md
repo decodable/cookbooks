@@ -14,8 +14,13 @@ python manage.py startapp myapp
 
 python manage.py migrate
 
+# test
+python manage.py test
+pip install coverage
+coverage run manage.py test -v 2
+coverage html
+
 # asynchronous tasks
-pip install -U "celery[redis]"
 ```
 
 
