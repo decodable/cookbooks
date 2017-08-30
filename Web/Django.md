@@ -31,3 +31,4 @@ python manage.py createsuperuser
 2. [Asynchronous Tasks With Django and Celery](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
 3. [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
 4. [How to debug in Django, the good way?](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
+5. [How to Use Django's Built-in Login System](https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html)
