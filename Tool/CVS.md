@@ -13,6 +13,11 @@ Update from repository
 cvs update -d [files]
 ```
 
+Update to specific revision
+```
+cvs update -r rev [files]
+```
+
 Dummy update to show status of files
 ```
 cvs -qn update [files]
