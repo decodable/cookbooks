@@ -29,7 +29,11 @@ vagrant destroy
 ```
 
 # Recipe
-[Box](https://www.vagrantup.com/docs/boxes.html) + Virtual Machine + [Provisioning](https://www.vagrantup.com/docs/provisioning/)
+Vagrant = Virtual Machine + Box + Provisioning
+
+## Virtual Machine
+## [Box](https://www.vagrantup.com/docs/boxes.html)
+## [Provisioning](https://www.vagrantup.com/docs/provisioning/)
 
 # References
 1. [Remote Desktop and VNC on Ubuntu Server](https://peteris.rocks/blog/remote-desktop-and-vnc-on-ubuntu-server/)
