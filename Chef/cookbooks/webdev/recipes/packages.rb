@@ -1,4 +1,4 @@
-packages = ['vim', 'screen', 'git', 'lynx', 'exuberant-ctags', 'nodejs', 'npm', 'python-pip', 'ruby', 'ruby-dev']
+packages = ['vim', 'screen', 'git', 'exuberant-ctags']
 
 package packages do
   action :upgrade
@@ -24,16 +24,4 @@ hidden_files.each do |hidden_file|
     action :create
   end
 end
-
-link '/usr/bin/node' do
-  to '/usr/bin/nodejs'
-end
-
-execute 'install Grip' do
-  command 'pip install grip'
-  not_if 'which grip'
-end
-
-gem_package 'bundler'
-gem_package 'jekyll'
 
