@@ -29,7 +29,7 @@ vagrant destroy
 ```
 
 # Recipe
-Vagrant = Virtual Machine + Box + Provisioning
+Vagrant = Box + Virtual Machine + Provisioning
 
 Having a virtual machine ready is easy but not easier than setting up a real computer.
 You need to 
@@ -40,9 +40,6 @@ Of course, after all setup, we can save it as an image, and load it anytime you 
 However, when you install or update software, you have to create a new image.
 
 Vagrant can help to do all things above and more.
-
-## Virtual Machine
-Vagrant supports different kind of virtual machines and call it [providers](https://www.vagrantup.com/docs/providers/). By default, it assume VirtualBox.
 
 ## [Box](https://www.vagrantup.com/docs/boxes.html)
 ```
@@ -96,6 +93,9 @@ Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: Mounting shared folders...
     default: /vagrant => C:/Users/hui-liang.wu/vagrant/ubuntu16.04
 ```
+
+## Virtual Machine
+Vagrant supports different kind of virtual machines and call it [providers](https://www.vagrantup.com/docs/providers/). By default, it assume VirtualBox.
 
 ## [Provisioning](https://www.vagrantup.com/docs/provisioning/)
 
