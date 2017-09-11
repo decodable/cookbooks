@@ -13,7 +13,10 @@ vagrant resume
 
 # [halt](https://www.vagrantup.com/docs/cli/halt.html) & [up](https://www.vagrantup.com/docs/cli/up.html)
 ```
-vagrant halt
+vagrant reload = vagrant halt + vagrant up.
+vagrant reload > reboot as it will do provision
+
+vagrant halt   # shut down
 vagrant up
 vagrant reload
 vagrant provision
