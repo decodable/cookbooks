@@ -1,5 +1,5 @@
-# Manual
-## [Init](https://www.vagrantup.com/docs/cli/init.html)
+# Basic
+## [init](https://www.vagrantup.com/docs/cli/init.html)
 ```
 # vagrant init bento/ubuntu-16.04
 vagrant init xenji/ubuntu-17.04-server
@@ -28,7 +28,7 @@ vagrant provision
 vagrant destroy
 ```
 
-# Recipe
+# Basic+
 Vagrant = Box + Virtual Machine + Provisioning
 
 Having a virtual machine ready is easy but not easier than setting up a real computer.
