@@ -3,4 +3,7 @@
 
 I like:
 39. Solarized Darcula
+
 Font: consolas 12-point
+
+For Mintty, I used https://draculatheme.com/mintty/
