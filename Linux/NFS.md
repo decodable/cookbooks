@@ -15,3 +15,4 @@ Edit /etc/auto.master
 10. [Using rpcdebug to debug Linux NFS client and server issues](http://prefetch.net/blog/index.php/2011/11/02/using-rpcdebug-to-debug-linux-nfs-client-and-server-issues/)
 11. [NFS: Setting up a basic NFS file system share](http://bencane.com/2012/11/23/nfs-setting-up-a-basic-nfs-file-system-share/)
 12. [NetworkTracing - troubleshoot NFS problems](http://wiki.linux-nfs.org/wiki/index.php/NetworkTracing)
+13. [Mount NFS share using Virtualbox under NAT](http://www.matteomattei.com/nfs-mount-under-nat-on-virtualbox/)
