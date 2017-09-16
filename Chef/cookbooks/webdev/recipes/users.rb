@@ -1,13 +1,48 @@
 # openssl passwd -1 "theplaintextpassword"
 password_hash = '$1$/O/Ajzwy$56Pdzck8AlNzZ9GxWPplj.'
 
-users = ['root', 'vagrant']
+users = ['vagrant', 'tester']
+
+remote_directory "/etc/" do
+  source 'etc'
+  action :create	
+end
+
+user 'root' do
+  password password_hash
+  shell '/bin/bash'
+end
 
 users.each do |user_name|
-  user user_name do
+  user "create user #{user_name}" do
+    action :create
     username user_name
-    password password_hash
+    home "/homedepot/#{user_name}"
+    password password_hash 
+    shell '/bin/bash'
+	manage_home true
+  end
+
+  user "update user #{user_name}" do
     action :modify
+    username user_name
+    home "/homedepot/#{user_name}"
+    shell '/bin/bash'
+	manage_home true
+  end
+  
+  group 'add #{user_name} to docker' do
+    action :modify
+	group_name 'docker'
+    members user_name
+    append true
+  end
+  
+  group 'add #{user_name} to sudo' do
+    action :modify
+	group_name 'sudo'
+    members user_name
+    append true
   end
 end
 
