@@ -16,5 +16,6 @@ docker kill
 docker pause
 docker unpause
 docker logs
+docker stats
 
 ```
