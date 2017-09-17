@@ -8,4 +8,6 @@ docker create
 docker start
 docker stop
 docker kill
+docker pause
+docker unpause
 ```
