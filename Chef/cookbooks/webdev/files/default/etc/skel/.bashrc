@@ -13,6 +13,10 @@ if [ -f ~/.git-prompt.sh ]; then
   . ~/.git-prompt.sh
 fi
 
+if [ -f ~/.start_ssh_agent.sh ]; then
+  . ~/.start_ssh_agent.sh
+fi
+
 shopt -s histappend
 export PROMPT_COMMAND='history -a'
 
