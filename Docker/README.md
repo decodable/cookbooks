@@ -10,4 +10,5 @@ docker stop
 docker kill
 docker pause
 docker unpause
+docker rmi
 ```
