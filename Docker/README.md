@@ -17,5 +17,6 @@ docker pause
 docker unpause
 docker logs
 docker stats
+docker top
 
 ```
