@@ -5,16 +5,16 @@ if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
 
-if [ -f ~/.git-completion.bash ]; then
-  . ~/.git-completion.bash
+if [ -f ~/.bash/.git-completion.bash ]; then
+  . ~/.bash/.git-completion.bash
 fi
 
-if [ -f ~/.git-prompt.sh ]; then
-  . ~/.git-prompt.sh
+if [ -f ~/.bash/.git-prompt.sh ]; then
+  . ~/.bash/.git-prompt.sh
 fi
 
-if [ -f ~/.start_ssh_agent.sh ]; then
-  . ~/.start_ssh_agent.sh
+if [ -f ~/.bash/.start_ssh_agent.sh ]; then
+  . ~/.bash/.start_ssh_agent.sh
 fi
 
 shopt -s histappend
