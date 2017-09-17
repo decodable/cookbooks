@@ -1,5 +1,6 @@
 ```
 # Images
+docker pull ubuntu:latest
 docker images
 docker rmi
 
