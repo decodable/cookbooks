@@ -6,6 +6,7 @@ docker rmi
 
 # container
 docker ps -a
+docker inspect
 docker run --rm -ti -v /data:/data:rw 
 docker create
 docker start
