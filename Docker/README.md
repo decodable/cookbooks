@@ -6,4 +6,5 @@ docker run --rm -ti -v /data:/data:rw
 
 docker create
 docker start
+docker stop
 ```
