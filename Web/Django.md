@@ -20,6 +20,9 @@ pip install coverage
 coverage run manage.py test -v 2
 coverage html
 
+# run
+python manage.py runserver 0:3000
+
 # asynchronous tasks
 
 # Admin
