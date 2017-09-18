@@ -15,6 +15,7 @@ docker start
 docker exec -ti 3107e358f41c /bin/bash
 docker stop
 docker kill
+docker rm
 docker pause
 docker unpause
 docker logs
