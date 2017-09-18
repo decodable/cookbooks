@@ -27,6 +27,7 @@ python manage.py runserver 0:3000
 
 # Admin
 python manage.py createsuperuser
+python manage.py changepassword {user}
 ```
 
 
