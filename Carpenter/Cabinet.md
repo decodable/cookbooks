@@ -10,3 +10,4 @@
 # Install a cabinet
 
 cabinet jack
+clamp
