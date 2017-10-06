@@ -52,7 +52,7 @@
 * Butter
 * Table Cloth
 * Bakeware brush
-* Tuner
+* Turner
 
 # Snow
 * Snow chain
