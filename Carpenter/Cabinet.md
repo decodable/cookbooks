@@ -1,3 +1,6 @@
+# Plan
+1. [Plan your kitchen in 3D](http://www.ikea.com/ms/en_CA/rooms_ideas/kitchen_howto/NA/plan_your_kitchen_in_3d.html)
+
 # Tools
   1. [DEWALT 15 Amp 10 in. Compact Job Site Table Saw [DW745]](http://www.homedepot.com/p/DEWALT-15-Amp-10-in-Compact-Job-Site-Table-Saw-DW745/100497987)
 2. [DEWALT Heavy Duty Rolling Table Saw Stand](http://www.homedepot.com/p/DEWALT-Heavy-Duty-Rolling-Table-Saw-Stand-DW7440RS/203054768?keyword=DW7440rs)
