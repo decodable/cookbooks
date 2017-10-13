@@ -4,7 +4,7 @@ docker pull ubuntu:latest
 docker images
 docker rmi
 docker history
-docker build
+docker build -t name .
 
 # container
 docker ps -a
