@@ -12,5 +12,6 @@ cmake -DCMAKE_BUILD_TYPE=Debug
 ```
 
 # References
-1. [cmake tutorial](https://cmake.org/cmake-tutorial/)
-2. [FindFLEX](https://cmake.org/cmake/help/v3.0/module/FindFLEX.html)
+1. [CMake](http://www.aosabook.org/en/cmake.html)
+2. [cmake tutorial](https://cmake.org/cmake-tutorial/)
+3. [FindFLEX](https://cmake.org/cmake/help/v3.0/module/FindFLEX.html)
