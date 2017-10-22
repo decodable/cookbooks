@@ -36,3 +36,4 @@ python manage.py changepassword {user}
 3. [Testing in Django](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
 4. [How to debug in Django, the good way?](https://stackoverflow.com/questions/1118183/how-to-debug-in-django-the-good-way)
 5. [How to Use Django's Built-in Login System](https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html)
+6. [Django 源码学习](https://yijingping.github.io/2014/03/12/django-1.html)
