@@ -5,6 +5,9 @@
 ## Refrigerator
 * Counter-Depth Refrigerator
 
+1. [KitchenAid 20 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth Model # KRFC300ESS](https://www.homedepot.com/p/KitchenAid-20-cu-ft-French-Door-Refrigerator-in-Stainless-Steel-Counter-Depth-KRFC300ESS/205905754) $1999 (35.75x30.5x70.13)
+
+
 1. http://www.monogram.com
 2. http://www.subzero-wolf.com
 
