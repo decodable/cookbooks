@@ -12,6 +12,7 @@
 5. [LG 24CuFt 3-Door French Door Ultra Capacity Counter-Depth Refrigerator in Stainless Steel](https://www.costco.com/LG-24CuFt-3-Door-French-Door-Ultra-Capacity-Counter-Depth-Refrigerator-in-Stainless-Steel.product.100146708.html) $2899 (35.75x30.88x70.25)
 
 1. http://www.monogram.com
+2. [Monogram ENERGY STAR® 23.1 Cu. Ft. Counter-Depth French-Door Refrigerator](http://appliances.monogram.com/us/specs/ZWE23PSHSS) $3999 (36x31.5x70.5)
 2. http://www.subzero-wolf.com
 
 ## Induction Cooktop
