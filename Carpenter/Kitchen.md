@@ -8,7 +8,7 @@
 1. [KitchenAid 20 cu. ft. French Door Refrigerator in Stainless Steel, Counter Depth Model # KRFC300ESS](https://www.homedepot.com/p/KitchenAid-20-cu-ft-French-Door-Refrigerator-in-Stainless-Steel-Counter-Depth-KRFC300ESS/205905754) $1999 (35.75x30.5x70.13)
 2. [KitchenAid 36 in. W 21.9 cu. ft. French Door Refrigerator in Panel Ready, Counter Depth](https://www.homedepot.com/p/KitchenAid-36-in-W-21-9-cu-ft-French-Door-Refrigerator-in-Panel-Ready-Counter-Depth-KRFC302EPA/206276213) $2999 (35.75x30.25x72)
 3. [KitchenAid 36 in. W 20.8 cu. ft. Built-In French Door Refrigerator in Panel Ready and Platinum Interior](https://www.homedepot.com/p/KitchenAid-36-in-W-20-8-cu-ft-Built-In-French-Door-Refrigerator-in-Panel-Ready-and-Platinum-Interior-KBFN506EPA/205851244?MERCH=REC-_-PIPHorizontal1_rr-_-206276213-_-205851244-_-N) $7099 (36.25x27.75x83.38)
-4. [Samsung - 17.5 Cu. Ft. French Door Counter-Depth Refrigerator - Stainless Steel] $1249 (33x30.5x70.125)
+4. [Samsung - 17.5 Cu. Ft. French Door Counter-Depth Refrigerator - Stainless Steel](https://www.bestbuy.com/site/samsung-17-5-cu-ft-french-door-counter-depth-refrigerator-stainless-steel/5801600.p?skuId=5801600) $1249 (33x30.5x70.125)
 
 1. http://www.monogram.com
 2. http://www.subzero-wolf.com
