@@ -32,6 +32,6 @@
 ## Water Filtration
 
 # Wall
-* backsplash
+* backsplash (Smart Tiles)
 
 # Light
