@@ -59,9 +59,10 @@ end
 Boxes have all the information required to install your system. e.g. the image for the virtual machine.
 When you execute `vagrant init xenji/ubuntu-17.04-server`, it will automatically download the box from online reporsitory to local disk, so that next time it will not download again when you create another virtual machine.
 The corresponding box info is https://app.vagrantup.com/xenji/boxes/ubuntu-17.04-server.
-We can also use command `vagrant box` to 
+We can also use command `vagrant box` to manage box.
 
 ```
+$ vagrant box add bento/ubuntu-16.04
 Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: Importing base box 'bento/ubuntu-16.04'...
 ==> default: Matching MAC address for NAT networking...
@@ -91,7 +92,7 @@ Bringing machine 'default' up with 'virtualbox' provider...
 ==> default: Machine booted and ready!
 ==> default: Checking for guest additions in VM...
 ==> default: Mounting shared folders...
-    default: /vagrant => C:/Users/hui-liang.wu/vagrant/ubuntu16.04
+    default: /vagrant => C:/Users/milix/vagrant/ubuntu16.04
 ```
 
 ## Virtual Machine
