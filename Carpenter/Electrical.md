@@ -4,3 +4,4 @@
 3. [Line Load Gfci Receptacles Wiring](http://www.mediathena.com/wiring/line-load-gfci-receptacles-wiring.html)
 4. [Line or Load: A GFCI Connection Choice](https://www.thespruce.com/line-or-load-gfci-connection-1152785)
 5. [How do I install a GFCI receptacle with two hot wires and common neutral?](https://diy.stackexchange.com/questions/9293/how-do-i-install-a-gfci-receptacle-with-two-hot-wires-and-common-neutral)
+6. [Wiring Diagrams for Double Gang Boxes](https://www.do-it-yourself-help.com/wiring-two-outlets-one-box.html)
