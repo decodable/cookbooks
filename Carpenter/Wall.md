@@ -3,4 +3,5 @@
 3. [how do you move a door from one wall to another](http://community.homedepot.com/howto/DiscussionDetail/how-do-you-move-a-door-from-one-wall-to-another-9065000000007VJ)
 4. [GFCI Outlet Switch Wiring Diagrams](https://www.do-it-yourself-help.com/gfci-outlet-switch-wiring.html)
 5. [Drywall Primer: 5 Best Types to Use](https://www.thespruce.com/best-primer-for-your-new-drywall-1821477)
+6. [What is the Best Sized Insulation for 2x4 and 2x6 Walls?](https://www.thespruce.com/size-insulation-for-2x4-and-2x6-walls-1821598)
 
