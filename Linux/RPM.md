@@ -12,7 +12,7 @@ rpm -qip foo.rpm
 extract rpm without install
 ```
 rpm2cpio foo.rpm | cpio -idmv
-rpm2cpio foo.rpm | cpio -idmv XXX*.so
+rpm2cpio foo.rpm | cpio -idmv */XXX*.so
 ```
 
 verify package installed
