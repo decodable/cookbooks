@@ -1,3 +1,7 @@
+
+# Paint Roller
+1. 3/4 inch nap for ceiling - [Wagner Perforated 9 in. x 3/4 in. High-Density Knit Polyester Roller Cover](https://www.homedepot.com/p/Wagner-Perforated-9-in-x-3-4-in-High-Density-Knit-Polyester-Roller-Cover-0155208/100371395)
+2. 3/8 inch nap for wall - [Purdy WhiteDove 9 in. x 3/8 in. Paint Roller Cover](https://www.homedepot.com/p/Purdy-WhiteDove-9-in-x-3-8-in-Paint-Roller-Cover-144670092/100386417)
 # Paint
 1. Primer - [KILZ 2 White Water-Based Latex Multi-Surface Interior/Exterior Primer, Sealer and Stain-Blocker](https://www.homedepot.com/p/KILZ-2-2-gal-White-Water-Based-Latex-Multi-Surface-Interior-Exterior-Primer-Sealer-and-Stain-Blocker-20005/100371299)
 1. Ceiling - [BEHR Premium Plus Ultra - Ultra Pure White Ceiling Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-Ultra-Pure-White-Ceiling-Interior-Paint-and-Primer-in-One-555801/202601366)
