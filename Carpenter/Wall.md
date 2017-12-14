@@ -1,6 +1,6 @@
 # Paint
 1. Ceiling - [BEHR Premium Plus Ultra - Ultra Pure White Ceiling Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-Ultra-Pure-White-Ceiling-Interior-Paint-and-Primer-in-One-555801/202601366)
-2. Wall - [BEHR Premium Plus Ultra #75 Polar Bear Eggshell Enamel Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-75-Polar-Bear-Eggshell-Enamel-Interior-Paint-and-Primer-in-One-275001/204383598). Including kitchen, Family Room, Living Room and all others]
+2. Wall - [BEHR Premium Plus Ultra #75 Polar Bear Eggshell Enamel Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-75-Polar-Bear-Eggshell-Enamel-Interior-Paint-and-Primer-in-One-275001/204383598). Including kitchen, Family Room, Living Room and all others.
 
 
 # References
