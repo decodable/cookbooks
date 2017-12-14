@@ -4,4 +4,5 @@
 4. [GFCI Outlet Switch Wiring Diagrams](https://www.do-it-yourself-help.com/gfci-outlet-switch-wiring.html)
 5. [Drywall Primer: 5 Best Types to Use](https://www.thespruce.com/best-primer-for-your-new-drywall-1821477)
 6. [What is the Best Sized Insulation for 2x4 and 2x6 Walls?](https://www.thespruce.com/size-insulation-for-2x4-and-2x6-walls-1821598)
+7. [HOW TO CHOOSE A PAINT ROLLER](http://www.dummies.com/home-garden/home-painting/how-to-choose-a-paint-roller/)
 
