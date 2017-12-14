@@ -5,4 +5,5 @@
 5. [Drywall Primer: 5 Best Types to Use](https://www.thespruce.com/best-primer-for-your-new-drywall-1821477)
 6. [What is the Best Sized Insulation for 2x4 and 2x6 Walls?](https://www.thespruce.com/size-insulation-for-2x4-and-2x6-walls-1821598)
 7. [HOW TO CHOOSE A PAINT ROLLER](http://www.dummies.com/home-garden/home-painting/how-to-choose-a-paint-roller/)
+8. [Tips on Painting New Drywall](https://www.hunker.com/12296700/tips-on-painting-new-drywall)
 
