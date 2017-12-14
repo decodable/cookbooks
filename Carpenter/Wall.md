@@ -1,4 +1,5 @@
 # Paint
+1. Primer - [KILZ 2 White Water-Based Latex Multi-Surface Interior/Exterior Primer, Sealer and Stain-Blocker](https://www.homedepot.com/p/KILZ-2-2-gal-White-Water-Based-Latex-Multi-Surface-Interior-Exterior-Primer-Sealer-and-Stain-Blocker-20005/100371299)
 1. Ceiling - [BEHR Premium Plus Ultra - Ultra Pure White Ceiling Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-Ultra-Pure-White-Ceiling-Interior-Paint-and-Primer-in-One-555801/202601366)
 2. Wall - [BEHR Premium Plus Ultra #75 Polar Bear Eggshell Enamel Interior Paint and Primer in One](https://www.homedepot.com/p/BEHR-Premium-Plus-Ultra-1-gal-75-Polar-Bear-Eggshell-Enamel-Interior-Paint-and-Primer-in-One-275001/204383598). Including kitchen, Family Room, Living Room and all others.
 
