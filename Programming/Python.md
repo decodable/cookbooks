@@ -11,6 +11,9 @@ list, bytearray are multable
 
 str, tuple, dict are immultable
 
+### Tip - Iterator
+Write your own iterator based on iterator protocol
+
 ### Tip - Comprehensions
 Thanks Python, comprehension is really easy to understand as it is english.
 ```
