@@ -13,6 +13,7 @@ str, tuple, dict are immultable
 
 ### Tip - Iterator
 Write your own iterator based on iterator protocol
+[Iterators & Generators](https://anandology.com/python-practice-book/iterators.html)
 
 ### Tip - Comprehensions
 Thanks Python, comprehension is really easy to understand as it is english.
