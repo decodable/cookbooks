@@ -35,6 +35,9 @@ else:
   use static method
 ```
 
+### Tip - Property
+Always use new stype class, otherwise, e.g. property cannot work
+
 VIM
 ```
 ctags -R --fields=+l --languages=python --python-kinds=-iv ./
