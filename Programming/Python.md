@@ -35,8 +35,9 @@ else:
   use static method
 ```
 
-### Tip - Property
-Always use new stype class, otherwise, e.g. property cannot work
+### Tip - Others
+1. Always use new stype class, otherwise, e.g. property cannot work
+2. Always implement __repr__ for your own class
 
 VIM
 ```
