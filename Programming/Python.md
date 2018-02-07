@@ -37,7 +37,7 @@ else:
 
 ### Tip - Others
 1. Always use new stype class, otherwise, e.g. property cannot work
-2. Always implement __repr__ for your own class
+2. Always implement \_\_repr\_\_ for your own class
 
 VIM
 ```
