@@ -3,6 +3,12 @@ Edit /etc/auto.master
 /net    -hosts
 ```
 
+```
+exportfs -ra
+mount -o nfsvers=3 host:/path /local_path
+```
+
+
 1. [Setting Up NFS Server And Client On CentOS 7](http://www.unixmen.com/setting-nfs-server-client-centos-7/)
 2. [autofs @CentOS](https://www.centos.org/docs/5/html/Deployment_Guide-en-US/s1-nfs-client-config-autofs.html)
 3. [How to install and configure Autofs on CentOS 7 / Fedora 22 / Ubuntu 14.04](http://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-and-configure-autofs-on-centos-7-fedora-22-ubuntu-14-04.html)
