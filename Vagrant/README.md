@@ -1,3 +1,8 @@
+# Plugin
+```
+vagrant plugin install vagrant-disksize
+```
+
 # Basic
 ## [init](https://www.vagrantup.com/docs/cli/init.html)
 ```
