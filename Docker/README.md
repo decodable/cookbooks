@@ -23,3 +23,6 @@ docker stats
 docker top
 docker diff
 ```
+
+# References
+1. [Understanding Docker "Container Host" vs. "Container OS" for Linux and Windows Containers](http://www.floydhilton.com/docker/2017/03/31/Docker-ContainerHost-vs-ContainerOS-Linux-Windows.html)
