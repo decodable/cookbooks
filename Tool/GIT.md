@@ -14,7 +14,10 @@ git cherry-pick -e <commit>
 ```
 git clone https://github.com/trymilix/cookbook.git
 git pull  
-git push  
+git push
+git remote -v
+git remote set-url
+git remote set-url origin git@github.com:yakow/cookbooks.git
 ```
 
 ## Branch
