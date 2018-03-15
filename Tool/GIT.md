@@ -16,7 +16,7 @@ git clone https://github.com/trymilix/cookbook.git
 git pull  
 git push
 git remote -v
-git remote set-url origin git@github.com:yakow/cookbooks.git
+git remote set-url origin git@github.com:verigy/cookbooks.git
 ```
 
 ## Branch
