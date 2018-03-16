@@ -7,6 +7,6 @@ Hamburger, Sanwich, Pizza or Cake, why American love layers?
 |----------------|----------|----------|----------|----------|
 |:white_check_mark:|Container|  |  |
 |:white_check_mark:|VM Application| Docker | Chef |
-|:white_check_mark:|Virtual Machine| Ubuntu 16.04 LTS |  |
+|:white_check_mark:|VM OS| Ubuntu 16.04 LTS |  |
 ||Host Application| Vagrant | Virtual Box |Putty|
-||Host| Windows 7 | 
+||Host OS| Windows 7 | 
