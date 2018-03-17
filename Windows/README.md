@@ -4,7 +4,8 @@ There is provision tools for windows, however I do not install much software on 
 To use linux under windows.
 1. [Oracle VM VirtualBox](https://www.virtualbox.org/)
 2. [Vagrant](../Vagrant)
-3. [PuTTY](../Tool/PuTTY.md)
+3. [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
+4. [PuTTY](../Tool/PuTTY.md)
 
 ## Versions Combo
 
