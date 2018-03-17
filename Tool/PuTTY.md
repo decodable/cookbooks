@@ -7,3 +7,6 @@ I like:
 Font: consolas 12-point
 
 For Mintty, I used https://draculatheme.com/mintty/
+
+# References
+1. [Offical website](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
