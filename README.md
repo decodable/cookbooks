@@ -22,5 +22,5 @@ Hamburger, Sanwich, Pizza or Cake, why American love layers?
 |ROS| Bitcoin | Onionland|
 |XMLRPC||  |  |
 |HTML|Blockchain| Onion Routing |
-|TCP/IP|Host OS| Windows 7 |
-|PCIe|Hardware| CPU | COM | FPGA |
+|TCP/IP| UDP |
+|PCIe| CPU | COM | FPGA |
