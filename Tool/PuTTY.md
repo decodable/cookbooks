@@ -10,4 +10,4 @@ For Mintty, I used https://draculatheme.com/mintty/
 
 # References
 1. [Offical website](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-2. [解决 PuTTY 的中文乱码](http://www.wilf.cn/post/putty-chinese-setup.html). 这一个对日文同样有效。
+2. [解决 PuTTY 的中文乱码](http://www.wilf.cn/post/putty-chinese-setup.html). 
