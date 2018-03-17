@@ -23,4 +23,4 @@ Hamburger, Sanwich, Pizza or Cake, why American love layers?
 |XMLRPC||  |  |
 |HTML|Blockchain| Onion Routing |
 |TCP/IP| UDP |
-|PCIe| CPU | COM | FPGA |
+| CPU |PCIe| COM | FPGA |
