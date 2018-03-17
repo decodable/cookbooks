@@ -1,7 +1,6 @@
-There is provision tools for windows, however I do not install much software on windows and do not update them often, so I installed all of them manually.
 
 # Installed Software
-To use linux under windows.
+Use linux under windows.
 1. [Oracle VM VirtualBox](https://www.virtualbox.org/)
 2. [Vagrant](../Vagrant)
 3. [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
