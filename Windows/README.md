@@ -3,8 +3,8 @@ There is provision tools for windows, however I do not install much software on 
 # Installed Software
 To use linux under windows.
 1. [Oracle VM VirtualBox](https://www.virtualbox.org/)
-2. [Vagrant](Vagrant)
-3. [PuTTY]()
+2. [Vagrant](../Vagrant)
+3. [PuTTY](../Tool/PuTTY.md)
 
 ## Versions Combo
 
