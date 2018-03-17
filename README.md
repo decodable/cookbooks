@@ -2,7 +2,8 @@
 
 Hamburger, Sanwich, Pizza or Cake, why American love layers?
 
-----
+## DevOps
+
 |Configuration in GIT|[:leaves:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|     :sunflower:        |     :herb:        | :tulip:|
 |----------------|----------|----------|----------|----------|
 |:white_check_mark:|Language| C++ | Python | NodeJS |
@@ -12,3 +13,14 @@ Hamburger, Sanwich, Pizza or Cake, why American love layers?
 ||Host Application| Vagrant | Virtual Box |Putty|
 ||Host OS| Windows 7 |
 ||Hardware| CPU | COM | FPGA |
+
+
+## Protocols
+
+|[:leaves:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|     :sunflower:        |     :herb:        | :tulip:|
+|--------------------------|----------|----------|----------|
+|ROS| Bitcoin | Onionland|
+|XMLRPC||  |  |
+|HTML|Blockchain| Onion Routing |
+|TCP/IP|Host OS| Windows 7 |
+|PCIe|Hardware| CPU | COM | FPGA |
