@@ -13,3 +13,10 @@ Windows 7 Enterprise SP1
 | Date   |  VirtualBox | Powershell | Vagrant |
 |--------|-------------|------------|---------|
 | 180317 | 5.2.8       | 3          | 2.0.3   |
+
+# Others
+1. [7zip](http://www.7-zip.org/)
+2. [AutoHotkey](http://www.autohotkey.com/)
+3. [notepad++](http://notepad-plus-plus.org/)
+4. [PDFCreator](http://www.pdfforge.org/pdfcreator)
+5. [VLC Media Player](http://www.videolan.org/vlc/)
