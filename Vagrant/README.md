@@ -49,13 +49,13 @@ Vagrant can help to do all things above and more.
 ```
 mkdir ubuntu16.04
 cd ubuntu16.04
-vagrant init bento/ubuntu-16.04
+vagrant init ubuntu/xenial64
 ```
 It creates a file Vagrantfile in the current directory.
 The file Vagrantfile looks like this:
 ```
 Vagrant.configure("2") do |config|
-  config.vm.box = "bento/ubuntu-16.04"
+  config.vm.box = "ubuntu/xenial64"
 end
 ```
 
