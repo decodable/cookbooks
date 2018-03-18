@@ -91,5 +91,4 @@ The Vagrantfile is the recipe to describe all this.
 
 # References
 1. [Official Website](https://www.vagrantup.com/)
-2. [Remote Desktop and VNC on Ubuntu Server](https://peteris.rocks/blog/remote-desktop-and-vnc-on-ubuntu-server/)
-3. [Putty Unable to Use Vagrant’s Private Key](http://www.alittleofboth.com/2014/04/putty-unable-to-use-vagrants-private-key/)
+2. [Putty Unable to Use Vagrant’s Private Key](http://www.alittleofboth.com/2014/04/putty-unable-to-use-vagrants-private-key/)
