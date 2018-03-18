@@ -59,7 +59,6 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-
 Boxes have all the information required to install your system. e.g. the image for the virtual machine.
 When you execute `vagrant init ubuntu/xenial64`, it will automatically download the box from online reporsitory to local disk, so that next time it will not download again when you create another virtual machine.
 The corresponding box info is https://app.vagrantup.com/ubuntu/boxes/xenial64.
@@ -81,7 +80,7 @@ PS C:\> vagrant box add ubuntu/xenial64
 x'!
 ```
 
-## Virtual Machine
+## [Virtual Machine](https://www.vagrantup.com/docs/providers/)
 Vagrant supports different kind of virtual machines and call it [providers](https://www.vagrantup.com/docs/providers/). By default, it assume VirtualBox.
 
 ## [Provisioning](https://www.vagrantup.com/docs/provisioning/)
