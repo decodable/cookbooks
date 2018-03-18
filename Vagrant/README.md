@@ -61,42 +61,24 @@ end
 
 
 Boxes have all the information required to install your system. e.g. the image for the virtual machine.
-When you execute `vagrant init xenji/ubuntu-17.04-server`, it will automatically download the box from online reporsitory to local disk, so that next time it will not download again when you create another virtual machine.
-The corresponding box info is https://app.vagrantup.com/xenji/boxes/ubuntu-17.04-server.
+When you execute `vagrant init ubuntu/xenial64`, it will automatically download the box from online reporsitory to local disk, so that next time it will not download again when you create another virtual machine.
+The corresponding box info is https://app.vagrantup.com/ubuntu/boxes/xenial64.
 We can also use command `vagrant box` to manage box.
 
 ```
-$ vagrant box add bento/ubuntu-16.04
-Bringing machine 'default' up with 'virtualbox' provider...
-==> default: Importing base box 'bento/ubuntu-16.04'...
-==> default: Matching MAC address for NAT networking...
-==> default: Checking if box 'bento/ubuntu-16.04' is up to date...
-==> default: A newer version of the box 'bento/ubuntu-16.04' is available! You currently
-==> default: have version '2.3.4'. The latest is version '201708.22.0'. Run
-==> default: `vagrant box update` to update.
-==> default: Setting the name of the VM: ubuntu1604_default_1505166139756_15167
-==> default: Fixed port collision for 22 => 2222. Now on port 2200.
-==> default: Clearing any previously set network interfaces...
-==> default: Preparing network interfaces based on configuration...
-    default: Adapter 1: nat
-==> default: Forwarding ports...
-    default: 22 (guest) => 2200 (host) (adapter 1)
-==> default: Booting VM...
-==> default: Waiting for machine to boot. This may take a few minutes...
-    default: SSH address: 127.0.0.1:2200
-    default: SSH username: vagrant
-    default: SSH auth method: private key
-    default:
-    default: Vagrant insecure key detected. Vagrant will automatically replace
-    default: this with a newly generated keypair for better security.
-    default:
-    default: Inserting generated public key within guest...
-    default: Removing insecure key from the guest if it's present...
-    default: Key inserted! Disconnecting and reconnecting using new SSH key...
-==> default: Machine booted and ready!
-==> default: Checking for guest additions in VM...
-==> default: Mounting shared folders...
-    default: /vagrant => C:/Users/milix/vagrant/ubuntu16.04
+$ vagrant box add ubuntu/xenial64
+ubuntu/xenial64 (virtualbox, 20170830.1.1)
+PS C:\Users\hui-liang.wu> vagrant add vagrant box add ubuntu/xenial64
+PS C:\Users\hui-liang.wu> vagrant box add ubuntu/xenial64
+==> box: Loading metadata for box 'ubuntu/xenial64'
+    box: URL: https://vagrantcloud.com/ubuntu/xenial64
+==> box: Adding box 'ubuntu/xenial64' (v20180316.0.0) for provider: virtualbox
+    box: Downloading: https://vagrantcloud.com/ubuntu/boxes/xenial64/versions/20
+180316.0.0/providers/virtualbox.box
+    box: Download redirected to host: cloud-images.ubuntu.com
+    box: Progress: 100% (Rate: 836k/s, Estimated time remaining: --:--:--)
+==> box: Successfully added box 'ubuntu/xenial64' (v20180316.0.0) for 'virtualbo
+x'!
 ```
 
 ## Virtual Machine
