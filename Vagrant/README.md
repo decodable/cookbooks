@@ -6,8 +6,7 @@ vagrant plugin install vagrant-disksize
 # Basic
 ## [init](https://www.vagrantup.com/docs/cli/init.html)
 ```
-# vagrant init bento/ubuntu-16.04
-vagrant init xenji/ubuntu-17.04-server
+vagrant init ubuntu/xenial64
 vagrant up
 ```
 
