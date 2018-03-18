@@ -66,18 +66,7 @@ We can also use command `vagrant box` to manage box.
 
 ```
 $ vagrant box add ubuntu/xenial64
-ubuntu/xenial64 (virtualbox, 20170830.1.1)
-PS C:\> vagrant add vagrant box add ubuntu/xenial64
-PS C:\> vagrant box add ubuntu/xenial64
-==> box: Loading metadata for box 'ubuntu/xenial64'
-    box: URL: https://vagrantcloud.com/ubuntu/xenial64
-==> box: Adding box 'ubuntu/xenial64' (v20180316.0.0) for provider: virtualbox
-    box: Downloading: https://vagrantcloud.com/ubuntu/boxes/xenial64/versions/20
-180316.0.0/providers/virtualbox.box
-    box: Download redirected to host: cloud-images.ubuntu.com
-    box: Progress: 100% (Rate: 836k/s, Estimated time remaining: --:--:--)
-==> box: Successfully added box 'ubuntu/xenial64' (v20180316.0.0) for 'virtualbo
-x'!
+$ vagrant box list
 ```
 
 ## [Virtual Machine](https://www.vagrantup.com/docs/providers/)
