@@ -32,3 +32,9 @@ cscope -i tags.lst
 1. GDB
 2. Valgrind
 
+# References
+1. [Monotonic Clocks – the Right Way to Determine Elapsed Time](https://www.softwariness.com/articles/monotonic-clocks-windows-and-posix/)
+2. [Measuring Execution Time Accurately and Setting Deadlines](http://john-ahlgren.blogspot.com/2013/09/measuring-execution-time-accurately-and.html)
+3. [Measure time in Linux](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof)
+
+
