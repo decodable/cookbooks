@@ -2,9 +2,10 @@
 
 
 I like _39. Solarized Darcula_ @ [AlexAkulov/putty-color-themes](https://github.com/verigy/putty-color-themes).
+
 Font: consolas 12-point
 
-For Mintty, I used https://draculatheme.com/mintty/
+For Mintty, I used https://draculatheme.com/mintty/.
 
 [stayradiated/termcolors](https://github.com/verigy/termcolors) is helpful if we want convert between multiple terminal colour scheme formats.
 
