@@ -1,6 +1,14 @@
-# Install Plugin
+# Quick start
+
+Configuration file _Vagrantfile_
+```ruby
+Vagrant.configure("2") do |config|
+  config.vm.box = "ubuntu/xenial64"
+end
 ```
-vagrant plugin install vagrant-disksize
+Command to make virtual environment up
+```bash
+vagrant up
 ```
 
 # Basic
@@ -17,9 +25,11 @@ vagrant resume
 ```
 
 ## [halt](https://www.vagrantup.com/docs/cli/halt.html) & [up](https://www.vagrantup.com/docs/cli/up.html)
+
+After making any modifications to the Vagrantfile, a reload should be called.
+
 ```
 # vagrant reload = vagrant halt + vagrant up.
-# vagrant reload > reboot as it will do provisioning
 
 vagrant halt   # shut down
 vagrant up
@@ -77,6 +87,12 @@ Vagrant supports different kind of virtual machines and call it [providers](http
 
 The Vagrantfile is the recipe to describe all this.
 
+# My Vagrantfile
+## Install Plugin
+```
+vagrant plugin install vagrant-disksize
+```
+## Vagrantfiles
 
 # References
 1. [Official Website](https://www.vagrantup.com/)
