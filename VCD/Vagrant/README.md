@@ -11,6 +11,8 @@ Command to make virtual environment up
 vagrant up
 ```
 
+To login your virtual machine with PuTTY, please refer [Putty Unable to Use Vagrant’s Private Key](http://www.alittleofboth.com/2014/04/putty-unable-to-use-vagrants-private-key/).
+
 # Basic
 ## [init](https://www.vagrantup.com/docs/cli/init.html)
 ```
@@ -84,8 +86,11 @@ Vagrant supports different kind of virtual machines and call it [providers](http
 
 ## [Provisioning](https://www.vagrantup.com/docs/provisioning/)
 
+When virtual machine was first created from box, it has its own default public key in ~/.ssh/authorized_keys, and the box has the private key in host machine .vagrant\machines\default\virtualbox\private_key, so that vagrant can use ssh to login the virtual machine to do all the provision.
 
-The Vagrantfile is the recipe to describe all this.
+For security reason, on the first time vagrant up, vagrant will generate new public/private key to replace the default ones.
+
+The Vagrantfile is the recipe to describe all the provision.
 
 # My Vagrantfile
 ## Install Plugin
@@ -96,4 +101,3 @@ vagrant plugin install vagrant-disksize
 
 # References
 1. [Official Website](https://www.vagrantup.com/)
-2. [Putty Unable to Use Vagrant’s Private Key](http://www.alittleofboth.com/2014/04/putty-unable-to-use-vagrants-private-key/)
