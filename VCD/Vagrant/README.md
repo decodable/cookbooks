@@ -45,7 +45,7 @@ vagrant destroy
 ```
 
 # Basic++
-Vagrant = Box + Virtual Machine + Provisioning
+> Vagrant = Box + Virtual Machine + Provisioning
 
 Having a virtual machine ready is easy but not easier than setting up a real computer.
 You need to 
