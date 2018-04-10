@@ -99,5 +99,7 @@ vagrant plugin install vagrant-disksize
 ```
 ## Vagrantfiles
 
+1. [Vagrantfile-ubuntu-16.04](Vagrantfile-ubuntu-16.04)
+
 # References
 1. [Official Website](https://www.vagrantup.com/)
