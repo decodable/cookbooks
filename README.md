@@ -12,7 +12,7 @@ Hamburger, Sanwich, Pizza or Cake, why American love layers?
 |:white_check_mark:|VM OS| Ubuntu 16.04 LTS |  |
 ||Application| [Vagrant](VCD/Vagrant) | Virtual Box |[PuTTY](Tool/PuTTY.md)|
 ||Host OS| [Windows 7](Tools/Windows) |
-||Hardware| CPU | COM | FPGA |
+||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) |
 
 
 ## Protocols
