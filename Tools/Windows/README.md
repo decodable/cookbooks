@@ -2,9 +2,9 @@
 # Installed Software
 Use linux under windows.
 1. [Oracle VM VirtualBox](https://www.virtualbox.org/)
-2. [Vagrant](../Vagrant)
+2. [Vagrant](../../VCD/Vagrant)
 3. [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
-4. [PuTTY](../Tool/PuTTY.md)
+4. [PuTTY](../PuTTY.md)
 
 ## Versions Combo
 
