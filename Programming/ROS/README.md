@@ -1,5 +1,5 @@
 
-The core of ROS is collaboration.
+The core of ROS is collaboration of Nodes.
 
 ```
 source /opt/ros/kinetic/setup.bash
