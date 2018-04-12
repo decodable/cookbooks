@@ -1,6 +1,8 @@
 
 The core of ROS is collaboration of Nodes.
+# Developer
 
+# Runtime
 ```
 source /opt/ros/kinetic/setup.bash
 roscore
