@@ -1,7 +1,7 @@
 # Cookbooks
 
 
-## DevOps
+## Dev
 
 |Configuration in GIT|[:leaves:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|     :sunflower:        |     :herb:        | :tulip:|
 |----------------|----------|----------|----------|----------|
