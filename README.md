@@ -1,6 +1,5 @@
 # Cookbooks
 
-Hamburger, Sanwich, Pizza or Cake, why American love layers?
 
 ## DevOps
 
