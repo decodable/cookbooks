@@ -1,12 +1,18 @@
 
+# Query
 Get installed rpm
 ```
 rpm -qa
 ```
 
-Get information about rpm
+Get information about package
 ```
 rpm -qip foo.rpm
+```
+
+List files in package
+```
+rpm -qlp foo.rpm
 ```
 
 extract rpm without install
