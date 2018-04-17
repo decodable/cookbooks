@@ -5,6 +5,7 @@ The core of ROS is collaboration of Nodes.
 ```
 docker pull ros:kinetic-ros-core-xenial
 ```
+For difference between ros_core, ros_base, robot and desktop, please refer [REP-142](http://www.ros.org/reps/rep-0142.html).
 
 # Runtime
 ```
