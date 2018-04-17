@@ -1,7 +1,7 @@
 # openssl passwd -1 "theplaintextpassword"
 password_hash = '$1$/O/Ajzwy$56Pdzck8AlNzZ9GxWPplj.'
 
-users = ['vagrant', 'tester']
+users = ['vagrant', 'aliang']
 
 remote_directory "/etc/" do
   source 'etc'
@@ -17,16 +17,7 @@ users.each do |user_name|
   user "create user #{user_name}" do
     action :create
     username user_name
-    home "/homedepot/#{user_name}"
     password password_hash 
-    shell '/bin/bash'
-	manage_home true
-  end
-
-  user "update user #{user_name}" do
-    action :modify
-    username user_name
-    home "/homedepot/#{user_name}"
     shell '/bin/bash'
 	manage_home true
   end
