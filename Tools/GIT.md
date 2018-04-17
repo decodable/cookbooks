@@ -8,6 +8,7 @@ git commit -a -m "new examples"
 git commit --amend
 git checkout <commit> <file>
 git cherry-pick -e <commit>
+git stash
 ```
 
 ## Remote
