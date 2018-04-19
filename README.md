@@ -11,7 +11,7 @@
 |:white_check_mark:|Guest OS| Ubuntu 16.04 LTS |  |
 ||Application| [Vagrant](VCD/Vagrant) | Virtual Box |[PuTTY](Tool/PuTTY.md)|
 ||Host OS| [Windows 7](Tools/Windows) |
-||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) |
+||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](Hardware/FPGA/) |
 
 
 ## Protocols
