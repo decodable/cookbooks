@@ -11,7 +11,7 @@
 
 # checkpoint
 
-# Others
+# corefile
 ```
 generate-core-file
 ```
