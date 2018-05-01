@@ -1,4 +1,7 @@
 # run / start
+```
+gdb -tui program [core|process]
+```
 
 # continue / step
 
