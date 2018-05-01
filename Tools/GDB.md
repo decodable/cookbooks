@@ -1,6 +1,9 @@
 # run / start
 ```
 gdb -tui program [core|process]
+(gdb) start
+(gdb) n(ext)
+(gdb) c(ontinue)
 ```
 
 # continue / step
