@@ -10,3 +10,8 @@
 # catchpoint  
 
 # checkpoint
+
+# Others
+```
+generate-core-file
+```
