@@ -23,6 +23,7 @@ Thanks Python, comprehension is really easy to understand as it is english.
 ```
 
 ### Tip - Generator Object
+[The Python yield keyword explained](https://pythontips.com/2013/09/29/the-python-yield-keyword-explained/)
 [Generator functions in C++](https://paoloseverini.wordpress.com/2014/06/09/generator-functions-in-c/) is not easy.
 
 ### Tip - Instance / Class / Static method
