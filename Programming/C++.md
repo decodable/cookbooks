@@ -41,4 +41,5 @@ cscope -i tags.lst
 3. [Measure time in Linux](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof)
 4. [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming))
 5. [Dynamic memory management](http://en.cppreference.com/w/cpp/memory)
+6. [Template metaprogramming](https://en.wikipedia.org/wiki/Template_metaprogramming)
 
