@@ -32,6 +32,9 @@ cscope -i tags.lst
 1. GDB
 2. Valgrind
 
+# C++ vs C
+1. [Scope Regions in C++](http://www.drdobbs.com/cpp/scope-regions-in-c/240002006)
+
 # References
 1. [Monotonic Clocks – the Right Way to Determine Elapsed Time](https://www.softwariness.com/articles/monotonic-clocks-windows-and-posix/)
 2. [Measuring Execution Time Accurately and Setting Deadlines](http://john-ahlgren.blogspot.com/2013/09/measuring-execution-time-accurately-and.html)
