@@ -40,4 +40,5 @@ cscope -i tags.lst
 2. [Measuring Execution Time Accurately and Setting Deadlines](http://john-ahlgren.blogspot.com/2013/09/measuring-execution-time-accurately-and.html)
 3. [Measure time in Linux](http://stackoverflow.com/questions/12392278/measure-time-in-linux-time-vs-clock-vs-getrusage-vs-clock-gettime-vs-gettimeof)
 4. [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming))
+5. [Dynamic memory management](http://en.cppreference.com/w/cpp/memory)
 
