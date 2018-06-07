@@ -1,6 +1,6 @@
 ```
 # Images
-docker pull ubuntu:latest
+docker pull ubuntu:16.04
 docker images
 docker rmi
 docker history
