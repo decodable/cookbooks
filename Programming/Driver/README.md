@@ -11,5 +11,5 @@
 docker pull ubuntu:16.04
 docker run -rm -it -v /data:/data:rw 5e8b97a2a082 /bin/bash
 apt-get update
-apt-get install linux-headers-$(uname -r)
+apt-get install build-essential linux-headers-$(uname -r)
 ```
