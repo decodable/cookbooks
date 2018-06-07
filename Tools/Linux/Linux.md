@@ -31,6 +31,7 @@ modprobe
 ```
 apt-get update
 apt-get upgrade
+apg-cache search
 ```
 
 ## CentOS
