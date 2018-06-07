@@ -12,7 +12,8 @@ Vagrant.configure("2") do |config|
 
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
-  config.vm.box = "bento/ubuntu-16.04"
+  config.vm.box = "ubuntu/xenial64"
+  config.disksize.size = '15GB'
 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
@@ -23,6 +24,10 @@ Vagrant.configure("2") do |config|
   # within the machine from a port on the host machine. In the example below,
   # accessing "localhost:8080" will access port 80 on the guest machine.
   # config.vm.network "forwarded_port", guest: 80, host: 8080
+  config.vm.network "forwarded_port", guest: 3000, host: 3000
+  config.vm.network "forwarded_port", guest: 3001, host: 3001
+  config.vm.network "forwarded_port", guest: 3002, host: 3002
+  config.vm.network "forwarded_port", guest: 8000, host: 8000
 
   # Create a private network, which allows host-only access to the machine
   # using a specific IP.
@@ -32,6 +37,7 @@ Vagrant.configure("2") do |config|
   # Bridged networks make the machine appear as another physical device on
   # your network.
   # config.vm.network "public_network"
+  # config.vm.network "public_network", bridge: "Intel(R) Ethernet Connection I218-LM"
 
   # Share an additional folder to the guest VM. The first argument is
   # the path on the host to the actual folder. The second argument is
@@ -70,10 +76,11 @@ Vagrant.configure("2") do |config|
   #   apt-get install -y apache2
   # SHELL
 
-  config.vm.provision "chef_solo" do |chef|
-    chef.cookbooks_path = "../data/milix/cookbooks/Chef/cookbooks/"
-    chef.add_recipe "webdev::users"
-    chef.add_recipe "webdev::packages"
-  end
+  config.vm.provision "docker"
 
+  config.vm.provision "chef_solo" do |chef|
+    chef.cookbooks_path = "../Data/verigy/cookbooks/VCD/Chef/cookbooks/"
+    chef.add_recipe "webdev::packages"
+    chef.add_recipe "webdev::users"
+  end
 end
