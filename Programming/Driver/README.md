@@ -1,3 +1,8 @@
+# Why?
+Why we need kernel module?
+How to access kernel space from user space?
+How to access device?
+
 # Kernel Module
 1. Very limited stack
 2. No libraries to link to
