@@ -4,3 +4,4 @@
 2. [ROBUST C LIBRARY AND UTILITY FOR GPIO SYSFS INTERFACE IN LINUX](http://www.electronics-lab.com/robust-c-library-utility-gpio-sysfs-interface-linux/)
 3. [GPIO Sysfs Interface for Userspace](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)
 4. [The platform device API](https://lwn.net/Articles/448499/)
+5. [Using I/O ports in C programs](https://www.tldp.org/HOWTO/IO-Port-Programming-2.html)
