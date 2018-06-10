@@ -7,3 +7,4 @@
 5. [Using I/O ports in C programs](https://www.tldp.org/HOWTO/IO-Port-Programming-2.html)
 6. [Intel chipset的GPIO 找法](http://white5168.blogspot.com/2013/08/intel-chipsetgpio.html#.WxyPUtVKi00)
 7. [Dump GPIO I/O Registers](https://mail.coreboot.org/pipermail/coreboot/2008-February/031026.html)
+8. [Linux I/O Performance Tests using dd](https://www.thomas-krenn.com/en/wiki/Linux_I/O_Performance_Tests_using_dd)
