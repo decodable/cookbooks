@@ -5,3 +5,4 @@
 3. [GPIO Sysfs Interface for Userspace](https://www.kernel.org/doc/Documentation/gpio/sysfs.txt)
 4. [The platform device API](https://lwn.net/Articles/448499/)
 5. [Using I/O ports in C programs](https://www.tldp.org/HOWTO/IO-Port-Programming-2.html)
+6. [Intel chipset的GPIO 找法](http://white5168.blogspot.com/2013/08/intel-chipsetgpio.html#.WxyPUtVKi00)
