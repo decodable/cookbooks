@@ -11,4 +11,5 @@ PCI and PCI-X buses are parallel interconnect buses. While PCIe is a serial, poi
 3. [Userspace access to PCI memory](http://billfarrow.blogspot.com/2010/09/userspace-access-to-pci-memory.html)
 4. [pcilib (7) - Linux Man Pages](https://www.systutorials.com/docs/linux/man/7-pcilib/)
 5. [PCI configuration space](https://en.wikipedia.org/wiki/PCI_configuration_space)
+6. [PCI Express-Based Systems](https://resources.infosecinstitute.com/system-address-map-initialization-x86x64-architecture-part-2-pci-express-based-systems/#gref)
 
