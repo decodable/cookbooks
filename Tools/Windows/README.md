@@ -12,7 +12,7 @@ Windows 7 Enterprise SP1
 
 | Date   |  VirtualBox | Powershell | Vagrant |
 |--------|-------------|------------|---------|
-| 180317 | 5.2.8       | 3          | 2.0.3   |
+| 180317 | 5.2.12      | 3          | 2.0.3   |
 
 # Others
 1. [7zip](http://www.7-zip.org/)
