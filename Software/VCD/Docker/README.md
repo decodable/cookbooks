@@ -1,12 +1,15 @@
-```
 # Images
+```
 docker pull ubuntu:16.04
 docker images
 docker rmi
 docker history
 docker build -t name .
+```
 
-# container
+# Container
+Container is an instance of image.
+```
 docker ps -a
 docker inspect
 docker run --rm -it -v /data:/data:rw -p 3002:3002 3107e358f41c /bin/bash
@@ -23,6 +26,14 @@ docker stats
 docker top
 docker diff
 ```
+
+# Images <=> Container
+docker build - build image from Docker file.
+docker commit - commit the change in a container to image.
+docker save - save an image to a local file.
+docker load - load an image from a local file.
+docker pull - load in image from a repository - docker hub
+docker push - save an image to a repository.
 
 # References
 1. [Understanding Docker "Container Host" vs. "Container OS" for Linux and Windows Containers](http://www.floydhilton.com/docker/2017/03/31/Docker-ContainerHost-vs-ContainerOS-Linux-Windows.html)
