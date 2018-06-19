@@ -30,7 +30,7 @@ docker diff
 # Images <=> Container
 1. docker build - build image from Docker file.
 2. docker commit - commit the change in a container to image.
-3. docker save - save an image to a local file.
+3. docker save - save an image to a local file - tarball.
 4. docker load - load an image from a local file.
 5. docker pull - load in image from a repository - docker hub
 6. docker push - save an image to a repository.
