@@ -35,6 +35,8 @@ docker diff
 5. docker pull - load in image from a repository - docker hub
 6. docker push - save an image to a repository.
 
+it is better to use Dockerfiles to manage images in a documented and maintainable way. 
+
 # References
 1. [Understanding Docker "Container Host" vs. "Container OS" for Linux and Windows Containers](http://www.floydhilton.com/docker/2017/03/31/Docker-ContainerHost-vs-ContainerOS-Linux-Windows.html)
 2. [Docker Base Image OS Size Comparison](https://www.brianchristner.io/docker-image-base-os-size-comparison/)
