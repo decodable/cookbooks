@@ -1,3 +1,9 @@
+# System
+```
+systemd-analyze dot *foo_service* | dot -Tsvg > systemd.svg
+```
+[Is there a way to see the execution tree of systemd?](https://serverfault.com/questions/617398/is-there-a-way-to-see-the-execution-tree-of-systemd)
+
 # Signal Handling
 
 # Process
