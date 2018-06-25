@@ -1,3 +1,4 @@
+We have very limitted number of registers, which is also the difficulty when we program with assembly language. 
 
 # Function
 Function is a block of code, which also have address.
