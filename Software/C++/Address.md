@@ -1,3 +1,6 @@
+When we learn a script language, chances are we do not need to know the concept of address.
+When comes to C/C++, address is everywhere, without understanding this, learning becomes difficutly. 
+
 We have very limitted number of registers, which is also the difficulty when we program with assembly language. 
 
 # Function
