@@ -1,7 +1,11 @@
-When we learn a script language, chances are we do not need to know the concept of address.
-When comes to C/C++, address is everywhere, without understanding this, learning becomes difficutly. 
 
-We have very limitted number of registers, which is also the difficulty when we program with assembly language. 
+When we learn a script language, like Python, chances are we do not need to know the register or address of main memory.
+
+In C/C++, we do not care about registers either.
+
+However, regarding address, though we do not code with it directly, the concept is actually everywhere. 
+It is more easy to understand language features together with address.
+
 
 # Function
 Function is a block of code, which also have address.
