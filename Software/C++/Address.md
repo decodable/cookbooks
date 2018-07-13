@@ -8,6 +8,8 @@ It is more easy to understand language features together with address.
 
 
 # Function
+> name an address of code
+
 Function is a block of code, which also have address.
 
 # Variable
