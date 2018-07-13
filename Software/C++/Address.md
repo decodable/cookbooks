@@ -13,6 +13,8 @@ Function is a block of code, which also have address.
 # Variable
 In C++, we use variable to name an address.
 
+We can only change the value of a variable, but not it's address.
+
 # Local variable
 
 
@@ -23,8 +25,12 @@ The address of global variable is known when the program was loaded.
 # Pointer
 Pointer is a variable, whose value is an address.
 
-Reference 
+# Reference 
+Reference is an alias for a named address, direct or indirect.
 
-We can only change the value of a variable, but not the address.
+# Rvalue reference. 
+Move an object - new address for an object, before it disappear. 
+
+
 
 
