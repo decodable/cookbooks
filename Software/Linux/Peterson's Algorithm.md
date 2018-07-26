@@ -1,6 +1,8 @@
 
 # Crossroad - One Way
 
+The crossroad is an example of critical section.
+
 ```
               ^
               |
