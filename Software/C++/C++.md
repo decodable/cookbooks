@@ -12,6 +12,8 @@ find | grep "\.h$" >> tags.lst
 cscope -i tags.lst
 ```
 
+[Better code understanding with Sourcetrail](https://www.bfilipek.com/2017/10/sourcetrail.html)
+
 # Style Guide
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
