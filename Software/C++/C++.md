@@ -36,6 +36,8 @@ cscope -i tags.lst
 
 [SGCheck: an experimental stack and global array overrun detector](http://valgrind.org/docs/manual/sg-manual.html)
 
+[Valgrind Manual](http://www.network-theory.co.uk/valgrind/manual/)
+
 # C++ vs C
 1. [Scope Regions in C++](http://www.drdobbs.com/cpp/scope-regions-in-c/240002006)
 
