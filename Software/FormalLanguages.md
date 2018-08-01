@@ -42,3 +42,4 @@ int main(int argc, char* argv[]) {
 2. [Using Flex](http://cs.umw.edu/~finlayson/class/spring15/cpsc401/notes/04-flex.html)
 3. [The Lex & Yacc Page](http://dinosaur.compilertools.net/)
 4. [Kaleidoscope: Tutorial Introduction and the Lexer](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
+5. [How to build LLVM, libclang, and liblld from source](https://github.com/ziglang/zig/wiki/How-to-build-LLVM,-libclang,-and-liblld-from-source)
