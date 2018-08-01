@@ -45,3 +45,4 @@ int main(int argc, char* argv[]) {
 5. [How to build LLVM, libclang, and liblld from source](https://github.com/ziglang/zig/wiki/How-to-build-LLVM,-libclang,-and-liblld-from-source)
 6. [Using libclang to Parse C++ (aka libclang 101)](https://shaharmike.com/cpp/libclang/)
 7. [Basic source-to-source transformation with Clang](https://eli.thegreenplace.net/2012/06/08/basic-source-to-source-transformation-with-clang)
+8. [Baby steps with `libclang`: Walking an abstract syntax tree](http://bastian.rieck.ru/blog/posts/2015/baby_steps_libclang_ast/)
