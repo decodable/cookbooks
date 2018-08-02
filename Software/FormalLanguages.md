@@ -47,3 +47,4 @@ int main(int argc, char* argv[]) {
 7. [Basic source-to-source transformation with Clang](https://eli.thegreenplace.net/2012/06/08/basic-source-to-source-transformation-with-clang)
 8. [Baby steps with `libclang`: Walking an abstract syntax tree](http://bastian.rieck.ru/blog/posts/2015/baby_steps_libclang_ast/)
 9. [Understanding the Clang AST](https://jonasdevlieghere.com/understanding-the-clang-ast/)
+10. [CLang tutorial to build a branch coverage measuring tool](http://swtv.kaist.ac.kr/courses/cs453-fall13/Clang%20tutorial%20v4.pdf) from [Automated Software Testing](http://swtv.kaist.ac.kr/courses/cs453-fall13)
