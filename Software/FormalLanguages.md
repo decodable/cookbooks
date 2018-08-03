@@ -48,3 +48,4 @@ int main(int argc, char* argv[]) {
 8. [Baby steps with `libclang`: Walking an abstract syntax tree](http://bastian.rieck.ru/blog/posts/2015/baby_steps_libclang_ast/)
 9. [Understanding the Clang AST](https://jonasdevlieghere.com/understanding-the-clang-ast/)
 10. [CLang tutorial to build a branch coverage measuring tool](http://swtv.kaist.ac.kr/courses/cs453-fall13/Clang%20tutorial%20v4.pdf) from [Automated Software Testing](http://swtv.kaist.ac.kr/courses/cs453-fall13)
+11. [Development/Clang plugins](https://wiki.documentfoundation.org/Development/Clang_plugins)
