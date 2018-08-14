@@ -23,4 +23,5 @@ Windows 7 Enterprise SP1
 5. [VLC Media Player](http://www.videolan.org/vlc/)
 6. [INKSCAPE](https://inkscape.org/en/)
 7. [Snagit](https://www.techsmith.com/screen-capture.html)
+8. [PNGOUT](https://en.wikipedia.org/wiki/PNGOUT)
 
