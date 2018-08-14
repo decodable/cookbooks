@@ -22,4 +22,5 @@ Windows 7 Enterprise SP1
 4. [PDFCreator](http://www.pdfforge.org/pdfcreator)
 5. [VLC Media Player](http://www.videolan.org/vlc/)
 6. [INKSCAPE](https://inkscape.org/en/)
+7. [Snagit](https://www.techsmith.com/screen-capture.html)
 
