@@ -21,3 +21,5 @@ Windows 7 Enterprise SP1
 3. [notepad++](http://notepad-plus-plus.org/)
 4. [PDFCreator](http://www.pdfforge.org/pdfcreator)
 5. [VLC Media Player](http://www.videolan.org/vlc/)
+6. [INKSCAPE](https://inkscape.org/en/)
+
