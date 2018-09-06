@@ -1,7 +1,7 @@
 
 
 
-I like _39. Solarized Darcula_ @ [AlexAkulov/putty-color-themes](https://github.com/verigy/putty-color-themes).
+I like _39. Solarized Darcula_ @ [AlexAkulov/putty-color-themes](https://github.com/AlexAkulov/putty-color-themes).
 
 Font: consolas 12-point
 
