@@ -7,10 +7,10 @@
 |----------------|----------|----------|----------|----------|
 |:white_check_mark:|Language| C++ | Python | NodeJS |
 |:white_check_mark:|Container|  |  |
-|:white_check_mark:|Application| [Docker](VCD/Docker) | [Chef](VCD/Chef) |
+|:white_check_mark:|Application| [Docker](Software/VCD/Docker) | [Chef](Software/VCD/Chef) |
 |:white_check_mark:|Guest OS| Ubuntu 16.04 LTS |  |
-||Application| [Vagrant](VCD/Vagrant) | Virtual Box |[PuTTY](Tool/PuTTY.md)|
-||Host OS| [Windows 7](Tools/Windows) |
+||Application| [Vagrant](Software/VCD/Vagrant) | Virtual Box |[PuTTY](Software/Tools/PuTTY.md)|
+||Host OS| [Windows](Tools/Windows) |
 ||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](Hardware/FPGA/) |
 
 
