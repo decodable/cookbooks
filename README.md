@@ -5,7 +5,7 @@
 
 |Configuration in GIT|[:leaves:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|     :sunflower:        |     :herb:        | :tulip:|
 |----------------|----------|----------|----------|----------|
-|:white_check_mark:|Language| C++ | Python | NodeJS |
+|:white_check_mark:|Language| [C++](Software/C++) | [Python](Software/Python) | NodeJS |
 |:white_check_mark:|Container|  |  |
 |:white_check_mark:|Application| [Docker](Software/VCD/Docker) | [Chef](Software/VCD/Chef) |
 |:white_check_mark:|Guest OS| Ubuntu 16.04 LTS |  |
@@ -18,7 +18,7 @@
 
 |[:leaves:](https://www.webpagefx.com/tools/emoji-cheat-sheet/)|     :sunflower:        |     :herb:        | :tulip:|
 |--------------------------|----------|----------|----------|
-|[ROS](Programming/ROS)| Bitcoin | Onionland|
+|[ROS](Software/ROS)| Bitcoin | Onionland|
 |XMLRPC||  |  |
 |HTML|Blockchain| Onion Routing |
 |TCP/IP| UDP |
