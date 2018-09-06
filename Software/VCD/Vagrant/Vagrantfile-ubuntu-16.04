@@ -79,7 +79,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision "docker"
 
   config.vm.provision "chef_solo" do |chef|
-    chef.cookbooks_path = "../Data/verigy/cookbooks/VCD/Chef/cookbooks/"
+    chef.cookbooks_path = "../Data/verigy/cookbooks/Software/VCD/Chef/cookbooks/"
     chef.add_recipe "webdev::packages"
     chef.add_recipe "webdev::users"
   end
