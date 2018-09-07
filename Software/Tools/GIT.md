@@ -2,8 +2,8 @@
 ## Local
 ```
 git config --global push.default simple
-git config --local user.name "Mi Lix"
-git config --local user.email test@milix.com
+git config --local user.name "aliang"
+git config --local user.email aliang@milix.com
 git commit -a -m "new examples"
 git commit --amend
 git checkout <commit> <file>
