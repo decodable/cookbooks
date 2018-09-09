@@ -12,7 +12,7 @@ add_executable(exec_name *.cpp)
 add_library(lib_name *.cpp)
 
 target_link_libraries(target_name libraries)
-target_compile_definitions(target_name options)
+target_compile_definitions(target_name <INTERFACE|PUBLIC|PRIVATE> options)
 ```
 # Variables
 ```
