@@ -7,9 +7,9 @@
 |----------------|----------|----------|----------|----------|
 |:white_check_mark:|Language| [C++](Software/C++) | [Python](Software/Python) | NodeJS |
 |:white_check_mark:|Container| [codible](https://hub.docker.com/u/codible/)/[ubuntu_cpp_dev](https://hub.docker.com/r/codible/ubuntu_cpp_dev/) |  |
-|:white_check_mark:|Application| Docker | Chef |
+|:white_check_mark:|Application| [Docker](https://github.com/decodible/DevOps/tree/master/Docker) | [Chef](https://github.com/decodible/DevOps/tree/master/Chef) |
 |:white_check_mark:|Guest OS| Ubuntu 16.04 LTS |  |
-||Application| Vagrant | Virtual Box |[PuTTY](Software/Tools/PuTTY.md)|
+||Application| [Vagrant](https://github.com/decodible/DevOps/tree/master/Vagrant) | Virtual Box |[PuTTY](Software/Tools/PuTTY.md)|
 ||Host OS| [Windows](Software/Tools/Windows) 7/10 |
 ||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](Hardware/FPGA/) |
 
