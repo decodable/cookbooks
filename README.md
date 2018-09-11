@@ -10,7 +10,7 @@
 |:white_check_mark:|Application| Docker | Chef |
 |:white_check_mark:|Guest OS| Ubuntu 16.04 LTS |  |
 ||Application| Vagrant | Virtual Box |[PuTTY](Software/Tools/PuTTY.md)|
-||Host OS| [Windows](Software/Tools/Windows) |
+||Host OS| [Windows](Software/Tools/Windows) 7/10 |
 ||Hardware| CPU | [COM](https://en.wikipedia.org/wiki/Computer-on-module) | [FPGA](Hardware/FPGA/) |
 
 
