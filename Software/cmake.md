@@ -7,6 +7,7 @@ project (Tutorial)
 add_subdirectory (sub_dir)
 
 include_directories(inc_dir)
+link_directories(link_dir)
 
 add_executable(exec_name *.cpp)
 add_library(lib_name *.cpp)
