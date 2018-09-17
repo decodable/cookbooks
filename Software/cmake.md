@@ -30,3 +30,4 @@ cmake -DCMAKE_BUILD_TYPE=Debug
 2. [cmake tutorial](https://cmake.org/cmake-tutorial/)
 3. [FindFLEX](https://cmake.org/cmake/help/v3.0/module/FindFLEX.html)
 4. [cmake-variables](https://cmake.org/cmake/help/latest/manual/cmake-variables.7.html)
+5. [Modern CMake with target_link_libraries](https://schneide.blog/2016/04/08/modern-cmake-with-target_link_libraries/)
