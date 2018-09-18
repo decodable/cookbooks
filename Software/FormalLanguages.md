@@ -50,3 +50,4 @@ int main(int argc, char* argv[]) {
 10. [CLang tutorial to build a branch coverage measuring tool](http://swtv.kaist.ac.kr/courses/cs453-fall13/Clang%20tutorial%20v4.pdf) from [Automated Software Testing](http://swtv.kaist.ac.kr/courses/cs453-fall13)
 11. [Development/Clang plugins](https://wiki.documentfoundation.org/Development/Clang_plugins)
 12. [Parsing C++ with GCC plugins, Part 1](https://www.codesynthesis.com/~boris/blog/2010/05/03/parsing-cxx-with-gcc-plugin-part-1/)
+13. [How to write RecursiveASTVisitor based ASTFrontendActions.](https://clang.llvm.org/docs/RAVFrontendAction.html)
