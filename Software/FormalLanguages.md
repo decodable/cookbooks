@@ -53,4 +53,3 @@ int main(int argc, char* argv[]) {
 13. [How to write RecursiveASTVisitor based ASTFrontendActions.](https://clang.llvm.org/docs/RAVFrontendAction.html)
 14. [Call Graph Generation using LLVM](https://nebelwelt.net/teaching/15-510-SE/projects/p2.pdf)
 15. [Clang 8 - Choosing the Right Interface for Your Application](https://clang.llvm.org/docs/Tooling.html)
-16. [Understanding the Clang AST](https://jonasdevlieghere.com/understanding-the-clang-ast/)
