@@ -52,3 +52,4 @@ ctags -R --fields=+l --languages=python --python-kinds=-iv ./
 4. [Understanding Python's "with" statement](http://effbot.org/zone/python-with-statement.htm)
 5. [switch from C++ to Python](https://www.quora.com/How-does-one-make-the-switch-from-C++-to-Python-I-am-most-comfortable-with-C++-and-have-been-using-it-to-do-most-of-my-programming-I-find-that-it-is-very-time-consuming-and-Python-gets-things-done-fast-What-is-the-best-way-to-make-the-switch)
 6. [CLASS METHOD VS STATIC METHOD 2017](http://www.bogotobogo.com/python/python_differences_between_static_method_and_class_method_instance_method.php)
+7. [Interfaces in Python: Protocols and ABCs](http://masnun.rocks/2017/04/15/interfaces-in-python-protocols-and-abcs/)
