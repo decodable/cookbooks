@@ -1,3 +1,7 @@
+# Accessing via IO Address Space
+## Access PCIE Configuration Space
+We can access PCIE configuration Space indirectly from registers PCI CONFIG_ADDRESS and PCI CONFIG_DATA in IO address space. Please refer to [PCI configuration space](https://en.wikipedia.org/wiki/PCI_configuration_space).
+
 
 # References
 1. [Accessing Intel ICH/PCH GPIOs](https://lab.whitequark.org/notes/2017-11-08/accessing-intel-ich-pch-gpios/)
