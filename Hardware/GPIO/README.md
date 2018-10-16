@@ -12,3 +12,5 @@ We can access PCIE configuration Space indirectly from registers PCI CONFIG_ADDR
 6. [Intel chipset的GPIO 找法](http://white5168.blogspot.com/2013/08/intel-chipsetgpio.html#.WxyPUtVKi00)
 7. [Dump GPIO I/O Registers](https://mail.coreboot.org/pipermail/coreboot/2008-February/031026.html)
 8. [Linux I/O Performance Tests using dd](https://www.thomas-krenn.com/en/wiki/Linux_I/O_Performance_Tests_using_dd)
+9. [Read Intel PCH GPIOs and Display Interrupt Enable status](https://gist.github.com/kylemanna/55fabfe80b76fc640b2a59aa6e7ac9b4)
+
