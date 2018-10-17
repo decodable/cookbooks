@@ -1,1 +1,9 @@
-1. red-black tree
+
+1. [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm)
+2. [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+3. [Linear programming](https://en.wikipedia.org/wiki/Linear_programming)
+3. [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm)
+
+
+
+
