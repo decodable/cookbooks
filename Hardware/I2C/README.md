@@ -14,6 +14,8 @@ with kernel module i2c-dev, we can access i2c via ioctl using C.
 
 See [Documentation/i2c/dev-interface - Kernel.org](https://www.kernel.org/doc/Documentation/i2c/dev-interface).
 
+The dev files could be found in /dev/i2c-* or /sys/class/i2c-dev/i2c-*
+
 # References
 1. [I²C - Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)
 2. [System Management Bus](https://en.wikipedia.org/wiki/System_Management_Bus)
