@@ -11,6 +11,7 @@ i2cset [-y] i2cbus chip-address data-address value
 
 # i2c-dev
 with kernel module i2c-dev, we can access i2c via ioctl using C.
+
 See [Documentation/i2c/dev-interface - Kernel.org](https://www.kernel.org/doc/Documentation/i2c/dev-interface).
 
 # References
