@@ -17,5 +17,15 @@ Both divide the problem into n subproblems. The difference is that, for each sub
 In order for DP to work, the subproblem dependency should be acyclic, otherwise there will be
 infinte loops. [House Robber II](https://leetcode.com/problems/house-robber-ii/) looks like cyclic, however it can be easily tranformed to [House Robber](https://leetcode.com/problems/house-robber/).
 
+[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) and Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) are interesting because of the minor difference between two functions below.
+
+```
+# I - the max is the max value of all Profit from 1 to n -1
+Profit[i] = max(0, Profit[i - 1] + (Prices[i] - Prices[i - 1]))
+# II - the max is the accumulated Profit of last day
+Profit[i] = (Prices[i] - Prices[i - 1] < 0) ? Profit[i - 1] : (Profit[i - 1] + (Prices[i] - Prices[i - 1]))
+```
+
+
 # 2-D
 1. [Edit Distance](https://leetcode.com/problems/edit-distance/)
