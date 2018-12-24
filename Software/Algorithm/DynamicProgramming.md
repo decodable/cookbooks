@@ -7,6 +7,7 @@
 5. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 6. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 7. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+8. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 
 [Decode Ways](https://leetcode.com/problems/decode-ways/) and [Word Break](https://leetcode.com/problems/word-break/) are similar, both are to decode.
 
@@ -25,7 +26,7 @@ Profit[i] = max(0, Profit[i - 1] + (Prices[i] - Prices[i - 1]))
 # II - the max is the accumulated Profit of last day
 Profit[i] = (Prices[i] - Prices[i - 1] < 0) ? Profit[i - 1] : (Profit[i - 1] + (Prices[i] - Prices[i - 1]))
 ```
-
+The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exactly same as [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock).
 
 # 2-D
 1. [Edit Distance](https://leetcode.com/problems/edit-distance/)
