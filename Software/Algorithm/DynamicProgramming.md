@@ -5,6 +5,8 @@
 3. [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)
 4. [House Robber](https://leetcode.com/problems/house-robber/)
 5. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+6. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+7. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 [Decode Ways](https://leetcode.com/problems/decode-ways/) and [Word Break](https://leetcode.com/problems/word-break/) are similar, both are to decode.
 
