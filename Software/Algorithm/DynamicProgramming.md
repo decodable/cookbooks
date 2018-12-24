@@ -30,3 +30,5 @@ The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exact
 
 # 2-D
 1. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+3. [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
