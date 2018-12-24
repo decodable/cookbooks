@@ -18,12 +18,12 @@ Both divide the problem into n subproblems. The difference is that, for each sub
 In order for DP to work, the subproblem dependency should be acyclic, otherwise there will be
 infinte loops. [House Robber II](https://leetcode.com/problems/house-robber-ii/) looks like cyclic, however it can be easily tranformed to [House Robber](https://leetcode.com/problems/house-robber/).
 
-[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) and [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) are interesting because of the minor difference between two functions below.
+[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) and [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) are interesting, as the only difference is that the former is not accumulative while the later is. Today's profit depends on the yesterday.
 
 ```
-# I - the max is the max value of all Profit from 1 to n -1
+# I - calculate the max value of all Profit of all days
 Profit[i] = max(0, Profit[i - 1] + (Prices[i] - Prices[i - 1]))
-# II - the max is the accumulated Profit of last day
+# II - calcuate the accumulated Profit of all days
 Profit[i] = (Prices[i] - Prices[i - 1] < 0) ? Profit[i - 1] : (Profit[i - 1] + (Prices[i] - Prices[i - 1]))
 ```
 The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exactly same as [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock).
