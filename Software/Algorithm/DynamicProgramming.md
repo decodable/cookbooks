@@ -33,3 +33,4 @@ The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exact
 1. [Edit Distance](https://leetcode.com/problems/edit-distance/)
 2. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 3. [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+4. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
