@@ -36,3 +36,4 @@ The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exact
 4. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
+[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) is my favorite, as there are so many interesting solutions.
