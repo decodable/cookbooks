@@ -38,3 +38,7 @@ The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exact
 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) is my favorite, as there are so many interesting solutions.
+
+# Greedy
+1. [Jump Game](https://leetcode.com/problems/jump-game/)
+
