@@ -41,4 +41,5 @@ The [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) is exact
 
 # Greedy
 1. [Jump Game](https://leetcode.com/problems/jump-game/)
+2. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
