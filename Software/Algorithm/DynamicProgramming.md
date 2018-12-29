@@ -10,6 +10,8 @@
 8. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 9. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 0. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+2. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 
 [Decode Ways](https://leetcode.com/problems/decode-ways/) and [Word Break](https://leetcode.com/problems/word-break/) are similar, both are to decode.
 
