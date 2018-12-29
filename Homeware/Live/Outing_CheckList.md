@@ -62,6 +62,7 @@
 * Snow Glasses
 * Gloves
 * Car Snow Shovel
+* Helmet
 
 # References
 * [How to Build a Campfire](https://www.rei.com/learn/expert-advice/campfire-basics.html)
