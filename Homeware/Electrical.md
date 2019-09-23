@@ -7,3 +7,4 @@
 6. [Wiring Diagrams for Double Gang Boxes](https://www.do-it-yourself-help.com/wiring-two-outlets-one-box.html)
 7. [Get Your Home's Recessed Lighting Right](https://www.houzz.com/ideabooks/12520025/list/get-your-homes-recessed-lighting-right)
 8. [Rewire a Switch that Controls an Outlet to Control an Overhead Light or Fan](https://www.oneprojectcloser.com/rewire-a-switch-that-controls-an-outlet-to-control-an-overhead-light-or-fan/)
+9. [BR 1-40 Amp 2 Pole and 2-20 Amp 1 Pole BQ (Independent Trip) Quad Circuit Breaker](https://www.homedepot.com/p/Eaton-BR-1-40-Amp-2-Pole-and-2-20-Amp-1-Pole-BQ-Independent-Trip-Quad-Circuit-Breaker-BQ2402120/100543911)
