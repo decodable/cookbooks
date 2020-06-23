@@ -1,5 +1,7 @@
 # Plan
 1. [Plan your kitchen in 3D](http://www.ikea.com/ms/en_CA/rooms_ideas/kitchen_howto/NA/plan_your_kitchen_in_3d.html)
+2. [Algot Planner](https://www.ikea.com/us/en/planner/algot-planner/)
+3. [Jonaxel Planner](https://www.ikea.com/us/en/planner/jonaxel-planner)
 
 # Tools
   1. [DEWALT 15 Amp 10 in. Compact Job Site Table Saw [DW745]](http://www.homedepot.com/p/DEWALT-15-Amp-10-in-Compact-Job-Site-Table-Saw-DW745/100497987)
