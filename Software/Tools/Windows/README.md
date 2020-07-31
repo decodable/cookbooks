@@ -8,6 +8,7 @@ Use linux under windows (See [VCD](../../VCD/)).
 5. [VNC Viewer](https://www.realvnc.com)
 6. [MobaXterm](https://mobaxterm.mobatek.net/)
 7. [ChromaCam](https://www.chromacam.me/)
+8. [PDFsam Basic](https://pdfsam.org/download-pdfsam-basic/)
 
 # Others
 1. [7zip](http://www.7-zip.org/)
