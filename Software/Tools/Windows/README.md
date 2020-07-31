@@ -6,6 +6,8 @@ Use linux under windows (See [VCD](../../VCD/)).
 3. [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
 4. [PuTTY](../PuTTY.md)
 5. [VNC Viewer](https://www.realvnc.com)
+6. [MobaXterm](https://mobaxterm.mobatek.net/)
+7. [ChromaCam](https://www.chromacam.me/)
 
 # Others
 1. [7zip](http://www.7-zip.org/)
