@@ -19,4 +19,5 @@ ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
 ```
 
 # Reference
-[Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+1. [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+2. [An Illustrated Guide to SSH Agent Forwarding](http://www.unixwiz.net/techtips/ssh-agent-forwarding.html)
