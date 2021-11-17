@@ -1,6 +1,6 @@
 
 # Installed Software
-Use linux under windows (See [VCD](../../VCD/)).
+Use linux under windows (See [VCD](https://github.com/decodable/DevOps)).
 1. [Oracle VM VirtualBox](https://www.virtualbox.org/)
 2. [Vagrant](../../VCD/Vagrant)
 3. [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/setup/installing-windows-powershell?view=powershell-6)
