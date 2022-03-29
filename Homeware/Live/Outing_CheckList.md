@@ -14,6 +14,11 @@
 * Sunglasses
 * Pepper Spray
 * Band-Aid
+* Water Filter
+* Knife
+* Cap
+* Thermal Blanket
+* Garmin Inreach
 
 # Outing
 * Cooler /W ICE
@@ -38,6 +43,7 @@
 * Headlight
 * Tent Mallet
 * Blanket
+* Tire Repairing Tool
 
 
 # By the Sea
