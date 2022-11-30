@@ -5,6 +5,7 @@ clang-format -style=google -dump-config > ~/.clang-format
 
 Change `~/.clang-format`
 ```
+AccessModifierOffset: -2
 BreakBeforeBraces: Allman
 ```
 # Format
