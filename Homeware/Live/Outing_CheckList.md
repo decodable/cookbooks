@@ -8,6 +8,10 @@
 * Real ID
 * Dental Picks
 
+# Chess
+* Chess Notation Book
+* Chess Clock
+
 # Hiking
 * Water
 * Hiking Socks
