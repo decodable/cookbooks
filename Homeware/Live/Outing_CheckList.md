@@ -7,6 +7,8 @@
 # Flights
 * Real ID
 * Dental Picks
+* Laptop / iPad / Kindle / Watch
+* Charging Cable
 
 # Chess
 * Chess Notation Book
