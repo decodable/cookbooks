@@ -1,8 +1,12 @@
 # Preparation
-* Charge Camera
-* Charge Battery
-* Charge Power Bank
+* Charge Watch
+* Charge Phone
+* Charge Bruchtooth
 * ICE Block in fridge
+
+# Flights
+* Real ID
+* Dental Picks
 
 # Hiking
 * Water
