@@ -36,4 +36,5 @@
 3. [Reconciliation](https://facebook.github.io/react/docs/reconciliation.html)
 4. [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 5. [React’s diff algorithm](https://calendar.perfplanet.com/2013/diff/)
+6. [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture#what-is-a-fiber)
 
