@@ -19,6 +19,6 @@ The dev files could be found in /dev/i2c-* or /sys/class/i2c-dev/i2c-*
 # References
 1. [I²C - Wikipedia](https://en.wikipedia.org/wiki/I%C2%B2C)
 2. [System Management Bus](https://en.wikipedia.org/wiki/System_Management_Bus)
-3. [Comparing the I²C Bus to the SMBus](https://www.maximintegrated.com/en/app-notes/index.mvp/id/476)
+3. [Comparing the I²C Bus to the SMBus]([https://www.maximintegrated.com/en/app-notes/index.mvp/id/476](https://www.analog.com/en/resources/design-notes/guide-to-comparing-ic-bus-to-the-smbus.html))
 4. [Using I2C bus from user space](https://www.acmesystems.it/user_i2c)
 5. [Using I2C from userspace in Linux](https://xgoat.com/wp/2007/11/11/using-i2c-from-userspace-in-linux/)
